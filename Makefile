@@ -17,4 +17,4 @@ viewpdf:
 	acroread ${SRC}.pdf
 
 clean:
-	rm -rf *dvi *idx *log *toc *bbl *aux *blg *out *~ proposal_main.pdf
+	rm -rf *dvi *idx *log *toc *bbl *aux *blg *out *~ paper.pdf
