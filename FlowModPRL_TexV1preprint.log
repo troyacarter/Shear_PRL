@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  3 FEB 2012 15:39
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  6 FEB 2012 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -84,13 +84,13 @@ Class revtex4-1 Info: RevTeX society AIP selected on input line 67.
 Class revtex4-1 Warning: No journal specified, using default cha.
 
 Using journal substyle cha.
-Class revtex4-1 Info: Reading file aps12pt4-1.rtx on input line 7547.
-(c:/texlive/2011/texmf-dist/tex/latex/revtex/aps12pt4-1.rtx
-File: aps12pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+Class revtex4-1 Info: Reading file aps10pt4-1.rtx on input line 7547.
+(c:/texlive/2011/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
 documentation)
-Class revtex4-1 Info: RevTeX pointsize 12pt selected on input line 30.
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
 )
-Class revtex4-1 Info: Overriding 12pt on input line 7547.
+Class revtex4-1 Info: Overriding 10pt on input line 7547.
 
 (c:/texlive/2011/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
@@ -331,84 +331,94 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 80.
 
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1{c:/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<velocity.png, id=26, 602.9727pt x 452.1693pt>
+) [1{c:/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<velocity.png, id=17, 602.9727pt x 452.1693pt>
 File: velocity.png Graphic file (type png)
  <use velocity.png>
-Package pdftex.def Info: velocity.png used on input line 125.
+Package pdftex.def Info: velocity.png used on input line 132.
 (pdftex.def)             Requested size: 227.62204pt x 170.68768pt.
 
-<flowandshear.png, id=27, 584.78474pt x 452.1693pt>
+<flowandshear.png, id=18, 584.78474pt x 452.1693pt>
 File: flowandshear.png Graphic file (type png)
  <use flowandshear.png>
-Package pdftex.def Info: flowandshear.png used on input line 133.
+Package pdftex.def Info: flowandshear.png used on input line 140.
 (pdftex.def)             Requested size: 227.62204pt x 176.00034pt.
 
-[4 <./velocity.png> <./flowandshear.png>]
-<densgrad.png, id=31, 584.78474pt x 452.1693pt>
+<densgrad.png, id=19, 584.78474pt x 452.1693pt>
 File: densgrad.png Graphic file (type png)
  <use densgrad.png>
-Package pdftex.def Info: densgrad.png used on input line 157.
+Package pdftex.def Info: densgrad.png used on input line 164.
 (pdftex.def)             Requested size: 227.62204pt x 176.00034pt.
- [5]
-<shearandgrad.png, id=35, 584.78474pt x 452.1693pt>
+
+<shearandgrad.png, id=20, 584.78474pt x 452.1693pt>
 File: shearandgrad.png Graphic file (type png)
  <use shearandgrad.png>
-Package pdftex.def Info: shearandgrad.png used on input line 167.
+Package pdftex.def Info: shearandgrad.png used on input line 174.
 (pdftex.def)             Requested size: 227.62204pt x 176.00034pt.
 
-<fluxvsshear.png, id=36, 584.78474pt x 452.1693pt>
+<fluxvsshear.png, id=21, 584.78474pt x 452.1693pt>
 File: fluxvsshear.png Graphic file (type png)
  <use fluxvsshear.png>
-Package pdftex.def Info: fluxvsshear.png used on input line 177.
+Package pdftex.def Info: fluxvsshear.png used on input line 184.
 (pdftex.def)             Requested size: 227.62204pt x 176.00034pt.
 
-[6 <./densgrad.png>] [7 <./shearandgrad.png> <./fluxvsshear.png>]
-<fluxcomps.png, id=44, 401.70074pt x 602.9727pt>
+[2 <./velocity.png> <./flowandshear.png> <./densgrad.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 189.
+
+<fluxcomps.png, id=27, 401.70074pt x 602.9727pt>
 File: fluxcomps.png Graphic file (type png)
  <use fluxcomps.png>
-Package pdftex.def Info: fluxcomps.png used on input line 187.
+Package pdftex.def Info: fluxcomps.png used on input line 194.
 (pdftex.def)             Requested size: 227.62204pt x 341.67387pt.
- [8 <./fluxcomps.png>] <powercontour.png, id=48, 482.2818pt x 385.9218pt>
+
+<powercontour.png, id=28, 482.2818pt x 385.9218pt>
 File: powercontour.png Graphic file (type png)
-
-<use powercontour.png>
-Package pdftex.def Info: powercontour.png used on input line 197.
+ <use powercontour.png>
+Package pdftex.def Info: powercontour.png used on input line 204.
 (pdftex.def)             Requested size: 227.62204pt x 182.1429pt.
- <cpcontour.png, id=49, 482.2818pt x 385.9218pt>
+
+<cpcontour.png, id=29, 482.2818pt x 385.9218pt>
 File: cpcontour.png Graphic file (type png)
-
-<use cpcontour.png>
-Package pdftex.def Info: cpcontour.png used on input line 205.
+ <use cpcontour.png>
+Package pdftex.def Info: cpcontour.png used on input line 212.
 (pdftex.def)             Requested size: 227.62204pt x 182.1429pt.
- [9 <./powercontour.png>] (./FlowModPRL_TexV1preprint.bbl
-[10 <./cpcontour.png>]) [11] (./FlowModPRL_TexV1preprint.aux) ) 
+ [3 <./shearandgrad.png> <./fluxvsshear.png> <./fluxcomps.png>]
+(./FlowModPRL_TexV1preprint.bbl) [4 <./powercontour.png> <./cpcontour.png>]
+(./FlowModPRL_TexV1preprint.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ ) 
 Here is how much of TeX's memory you used:
- 4517 strings out of 493629
- 59335 string characters out of 3146671
- 129258 words of memory out of 3000000
- 7742 multiletter control sequences out of 15000+200000
- 12602 words of font info for 46 fonts, out of 3000000 for 9000
+ 4533 strings out of 493629
+ 59468 string characters out of 3146671
+ 143298 words of memory out of 3000000
+ 7749 multiletter control sequences out of 15000+200000
+ 15193 words of font info for 56 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,6n,26p,1071b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
-<c:/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2011/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi6.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/201
-1/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2011/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2011/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti12.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (11 pages, 3783974 bytes).
+ 38i,6n,26p,1071b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2011/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2011/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2011/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texliv
+e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2011/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2011/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.p
+fb>
+Output written on FlowModPRL_TexV1preprint.pdf (4 pages, 3799274 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

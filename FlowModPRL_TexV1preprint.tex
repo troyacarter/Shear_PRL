@@ -24,9 +24,9 @@
  %jmp,%
  %prb,
  amsmath,amssymb,
- preprint,%
+ %preprint,%
 %superscriptaddress,
- %reprint,%
+ reprint,%
  %floatfix,
 %author-year,%
 %author-numerical,%
@@ -82,14 +82,15 @@
 
 %% Need to start with discussion of H-mode, role of flow.  Cite BDT, recent reviews of flow-shear interaction (Terry, Diamond, Tynan).  Move immediately to set up why this study is unique
 
+The effect of flow and flow shear on plasma turbulence has long been studied as a mechanism for turbulence reduction and increased particle confinement in both tokamaks and linear machines.  The most dramatic observed effect of cross-field flow is the creation of a higher confinement state, called an H-mode, which has been first observed on the Continuous Current Tokamak (CCT) and in other tokamaks such as DII-D. While some plasma machines rely on a spontaneous flow to create sheared flow for study, other machines (TEXTOR, LAPD) have developed external biasing mechanisms to produce radial electric fields which can drive controllable azimuthal flow by $E \times B$ drift on many machines including TEXTOR \cite{boedo00}. 
 
-The effect of flow and flow shear on plasma turbulence has long been studied as a mechanism for turbulence reduction and increased particle confinement in both tokamaks and linear machines.  The most dramatic observed effect of cross-field flow is the creation of a higher confinement state, called an H-mode, which has been first observed on the Continuous Current Tokamak (CCT) and in other tokamaks such as DII-D. While some plasma machines rely on a spontaneous flow to create sheared flow for study, other machines (TEXTOR, LAPD) have developed external biasing mechanisms to produce radial electric fields which can drive controllable azimuthal flow by $E \times B$ drift on many machines including TEXTOR \cite{boedo00}.
+Theoretical investigation into the nature of effect of sheared flow has focused mainly on its influence on turbulent fluctuations \cite{biglari90} and on the crossphase between electric field and any advected quantity, such as density in the case of particle flux \cite{ware96,terry01}. Fluctuation reduction due to shear comes from the reduction in radial correlation length---due to the shearing of turbulent eddies---while the effect of crossphase has to do with the fact that turbulent particle flux relies on the phasing of outward or inward ExB flows with increases in density. The simplest mode non-specific models for the effect of shearing on turbulent fluctuations predict a power law decrease\cite{biglari90}, while crossphase can have an even stronger scaling\cite{terry01}. 
 
 The experiment in this letter is an extension of previous biasing experiments on LAPD. In one, an inward pointing electric field produced by chamber biasing demonstrated that increased flow shear resulted in turbulent modification and increased particle confinement\cite{carter09}. However, penetration of the electric field was low until high biases resulting in sudden transition from background states to confined states. In another experiment, it was shown that a small biased annulus could produce sheared flows within the main column of the plasma\cite{zhou12}. In this letter, a new biasing mechanism has allowed for smooth transition from a low flow shear state-LAPD's natural state-to zero shear state, to a high shear state. With this smooth control of flow shear, we can carefully observe the effect of shear on turbulent fluctuations, particle flux, and gradient length scale to a level of detail that allows for comparison to theory prediction.
 
+In this letter, we report on the observation of a degraded and enhanced confinement state as a function of driven sheared-flows and that this confinement occurs regardless of flow or flow shear direction. We have shown that this variation in confinement correlates with increases and decreases in particle flux. Moreover, we can show that radial correlation length, particle flux, crossphase, density fluctuations and floating potential fluctions all decrease with shearing rate, and can each be fit to a power-law decay as predicted by theory. Lastly, we note that the various quantities effect by shearing are modified differently dependent on what frequency regime they are examimned.
+
 %Need to state primary observations here before describing apparatus, etc.  What is the main point of this letter?
-
-
 %\section{Experimental Setup}
 
 The Large Plasma Device \cite{gek91} (LAPD) is a 20m by 1m cylindrical linear device with a 54cm wide barium-oxide coated nickel cathode pulsed at 1Hz to produce a 45eV electron beam which ionizes the helium gas in the chamber. A column long plasma of density about $5 \times 10^{12}$ cm$^{3}$ and temperature of 5eV is produced. The field for this experiment was set to 1000G. To produce the bias, four quarter annulus aluminum plates are inserted half a meter beyond the cathode creating a flat boundary condition from the chamber wall to the opening of a 25cm aperture. A pulse power circuit connected to a capacitor bank supplies a 5ms bias during the 15ms plasma discharge with a voltage range from floating potential to 230V. Measurements of saturated current and floating potential are taken with a 9-tip flush surface tantalum probe while temperature and plasma potential is taken by swept Langmuir probe.
@@ -102,32 +103,29 @@ Measurements of saturated current and particle flux are taken for each bias flow
 Fig.~\ref{fig:flowandshear}%
 and are outside the limiter edge to avoid any possible effects from fast electrons.
 
-%is small enough to fit in a single column, while
-%Fig.~\ref{fig:wide}%
-%\begin{figure*}
-%\includegraphics{fig_2}% Here is how to import EPS art
-%\caption{\label{fig:wide}Use the \texttt{figure*} environment to get %a wide
-%figure, spanning the page in \texttt{twocolumn} formatting.}
-%\end{figure*}
-%is too wide for a single column,
-%so instead the \texttt{figure*} environment has been used.
-
-%\section{Theory and Background}
-%  Don't need this, instead add to intro in shortened form
-
-The primary goal of this experiment is to observe the effect of sheared flow on radial particle confinement and turbulence in general. The main avenues of investigation are through a global measurement of radial density profiles which can qualitatively demonstrate relative particle confinement and through the local particle flux, $\Gamma_{p}$, a calculated value taken from direct time-series measurements of density and electric field using 
-\begin{equation}
-\Gamma_{p} = \langle \tilde{n} \tilde{v_{r}} \rangle = \langle \tilde{n} \tilde{E_{\theta}} \rangle /B
-\label{eq:flux}
-\end{equation}
-where $r$ is the radial and $\theta$ is the azimuthal direction. Embedded in the flux information is both fluctuating power-both density and electric field-as well as the relative phase between these two quantities: 
+Calculated quantites are used to characterize flux and length scale. Density gradient length scale is calculated by $L_{\xi} = \lvert \nabla \ln \xi \rvert ^{-1}$ while particle flux, $\Gamma_{p} = \langle \tilde{n} \tilde{v_{r}} \rangle = \langle \tilde{n} \tilde{E_{\theta}} \rangle /B$, can be calculated spectrally as
 \begin{equation}
 \Gamma_{p} = \frac{2}{B} \int^{\infty}_{0} \lvert n(\omega) \rvert \lvert E_{\theta}(\omega) \rvert \gamma_{n,E_{\theta}}(\omega) \cos [\phi_{n,E_{\theta}}(\omega)] d\omega.
 \label{eq:fluxint}
 \end{equation}
-Theoretical investigation into the nature of effect of sheared flow has focused mainly on its influence on turbulent fluctuations \cite{biglari90} and on the crossphase between electric field and any advected quantity, such as density in the case of particle flux \cite{ware96,terry01}.  
+which also allows us to directly determine the contributions of turublent fluctuations, crossphase and coherency to the particle flux.
 
-Fluctuation reduction due to shear comes from the reduction in radial correlation length---due to the shearing of turbulent eddies---while the effect of crossphase has to do with the fact that turbulent particle flux relies on the phasing of outward or inward ExB flows with increases in density.
+%\section{Theory and Background}
+%  Don't need this, instead add to intro in shortened form
+
+%The primary goal of this experiment is to observe the effect of sheared flow on radial particle confinement and turbulence in general. %The main avenues of investigation are through a global measurement of radial density profiles which can qualitatively demonstrate %relative particle confinement and through the local particle flux, $\Gamma_{p}$, a calculated value taken from direct time-series %measurements of density and electric field using 
+%\begin{equation}
+%\Gamma_{p} = \langle \tilde{n} \tilde{v_{r}} \rangle = \langle \tilde{n} \tilde{E_{\theta}} \rangle /B
+%\label{eq:flux}
+%\end{equation}
+%where $r$ is the radial and $\theta$ is the azimuthal direction. Embedded in the flux information is both fluctuating power-both density %and electric field-as well as the relative phase between these two quantities: 
+%\begin{equation}
+%\Gamma_{p} = \frac{2}{B} \int^{\infty}_{0} \lvert n(\omega) \rvert \lvert E_{\theta}(\omega) \rvert \gamma_{n,E_{\theta}}(\omega) \cos %[\phi_{n,E_{\theta}}(\omega)] d\omega.
+%\label{eq:fluxint}
+%\end{equation}
+
+
+
 
 \begin{figure}
 \begin{center}
@@ -144,20 +142,20 @@ Fluctuation reduction due to shear comes from the reduction in radial correlatio
 \caption{\label{fig:flowandshear} Nearly linear scaling of flow (black) and shearing (red) versus limiter bias.}
 \end{figure}
 
-To get a quantitative relationship between shearing rate and fluctuation power, an heuristic argument can be made \cite{biglari90} based on turbulent fluctuation drive due to free energy from a gradient and decay from turbulent decorrelation for any fluctuating quantity $\xi$, so that for stationary turbulence,
-\begin{equation}
-\tau_{f}^{-1} \langle \lvert \tilde{\xi}/\xi_{0} \rvert ^{2} \rangle = D/L_{\xi}^{2}
-\label{eq:flucsbalance}
-\end{equation}
-where $\tau_{f}$ is a general turbulent decorrelation timescale and $L_{\xi} = \lvert \nabla \ln \xi \rvert ^{-1}$ is the gradient scale length and $D$ is the diffusivity. At zero shearing, $\tau_{f}$ is proportional to the standard mixing length $D/\Delta r^{2}$ where $\Delta r$ is the radial correlation length. At strong shearing however, it can be shown that $\tau_{f}^{-1} = (\omega_{s}^{2} \Delta \omega_{t})^{1/3}$ where $\omega_{s}$ is the shearing rate and $\Delta \omega_{t}$ is the turbulent decorrelation rate for zero shearing. Thus flucuation power normalized to zero-shearing power scales to shearing rate as
-\begin{equation}
-\frac{\langle \lvert \tilde{\xi}/\xi_{0} \rvert ^{2} \rangle _{\omega_{s}}}{\langle \lvert \tilde{\xi}/\xi_{0} \rvert ^{2} \rangle _{\omega_{s}=0}} = \left(\frac{\omega_{s}}{{\Delta \omega_{t}}}\right)^{-2/3}.
-\label{eq:flucsvsshear}
-\end{equation}
+%To get a quantitative relationship between shearing rate and fluctuation power, an heuristic argument can be made \cite{biglari90} based %on turbulent fluctuation drive due to free energy from a gradient and decay from turbulent decorrelation for any fluctuating quantity %$\xi$, so that for stationary turbulence,
+%\begin{equation}
+%\tau_{f}^{-1} \langle \lvert \tilde{\xi}/\xi_{0} \rvert ^{2} \rangle = D/L_{\xi}^{2}
+%\label{eq:flucsbalance}
+%\end{equation}
+%where $\tau_{f}$ is a general turbulent decorrelation timescale and $L_{\xi} = \lvert \nabla \ln \xi \rvert ^{-1}$ is the gradient scale %length and $D$ is the diffusivity. At zero shearing, $\tau_{f}$ is proportional to the standard mixing length $D/\Delta r^{2}$ where %$\Delta r$ is the radial correlation length. At strong shearing however, it can be shown that $\tau_{f}^{-1} = (\omega_{s}^{2} \Delta %\omega_{t})^{1/3}$ where $\omega_{s}$ is the shearing rate and $\Delta \omega_{t}$ is the turbulent decorrelation rate for zero %shearing. Thus flucuation power normalized to zero-shearing power scales to shearing rate as
+%\begin{equation}
+%\frac{\langle \lvert \tilde{\xi}/\xi_{0} \rvert ^{2} \rangle _{\omega_{s}}}{\langle \lvert \tilde{\xi}/\xi_{0} \rvert ^{2} \rangle %_{\omega_{s}=0}} = \left(\frac{\omega_{s}}{{\Delta \omega_{t}}}\right)^{-2/3}.
+%\label{eq:flucsvsshear}
+%\end{equation}
 
-Further calculations by Terry have suggested that the crossphase may be even more sensitive to shearing rate---up to two powers stronger \cite{terry01}. Based on crossphase reduction, it is even conceivable to observe an overall reduction in flux despite no change or even an increase in turbulent fluctuations.
+%Further calculations by Terry have suggested that the crossphase may be even more sensitive to shearing rate---up to two powers stronger %\cite{terry01}. Based on crossphase reduction, it is even conceivable to observe an overall reduction in flux despite no change or even %an increase in turbulent fluctuations.
 
-\section{Results}
+%\section{Results}
 This letter presents the first detailed experimental investigation into the effect of shearing rate variation on particle flux, turbulent fluctuations and crossphase through a wide range of shearing rates. The ability to have both a no flow, no shear regime and sheared to strongly sheared regimes in both azimuthal directions allows us to begin comparing experimental data to the proposed theoretical predictions. Furthermore, the no flow, no shear regime allows us to directly measure a turbulent decorrelation rate. An autocorrelation time of about 36us is calculated by taking the full width at half max of a Hilbert transform of the isat autocorrelation function at the no flow/shear bias yielding a decorrelation rate of about $\Delta \omega_{t} = $ 28kHz.
 The first clear observation shown in
 Fig.~\ref{fig:densgrad}
