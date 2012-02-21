@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  20 FEB 2012 09:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  20 FEB 2012 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -319,12 +319,12 @@ e
 ))
 \openout3 = `FlowModPRL_TexV1preprintNotes.bib'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 95.
+LaTeX Font Info:    Try loading font information for U+msa on input line 80.
 
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 95.
+LaTeX Font Info:    Try loading font information for U+msb on input line 80.
 
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -333,73 +333,68 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 File: velocity_flowshear.pdf Graphic file (type pdf)
 
 <use velocity_flowshear.pdf>
-Package pdftex.def Info: velocity_flowshear.pdf used on input line 160.
+Package pdftex.def Info: velocity_flowshear.pdf used on input line 135.
 (pdftex.def)             Requested size: 241.84842pt x 87.30342pt.
- <densgrad.pdf, id=14, 584.73657pt x 452.13216pt>
+ <densgrad.pdf, id=14, 584.73657pt x 301.3408pt>
 File: densgrad.pdf Graphic file (type pdf)
 
 <use densgrad.pdf>
-Package pdftex.def Info: densgrad.pdf used on input line 190.
-(pdftex.def)             Requested size: 241.84842pt x 186.99663pt.
- [2 <./velocity_flowshear.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 195.
-
-<shearandgrad.pdf, id=33, 584.73657pt x 452.13216pt>
+Package pdftex.def Info: densgrad.pdf used on input line 165.
+(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+ [2 <./velocity_flowshear.pdf> <./densgrad.pdf>]
+<shearandgrad.pdf, id=43, 584.73657pt x 452.13216pt>
 File: shearandgrad.pdf Graphic file (type pdf)
  <use shearandgrad.pdf>
-Package pdftex.def Info: shearandgrad.pdf used on input line 200.
+Package pdftex.def Info: shearandgrad.pdf used on input line 175.
 (pdftex.def)             Requested size: 241.84842pt x 186.99663pt.
 
-<powercontour.pdf, id=34, 482.24165pt x 385.76923pt>
+<powercontour.pdf, id=44, 584.73657pt x 514.15887pt>
 File: powercontour.pdf Graphic file (type pdf)
  <use powercontour.pdf>
-Package pdftex.def Info: powercontour.pdf used on input line 210.
-(pdftex.def)             Requested size: 241.84842pt x 193.46689pt.
+Package pdftex.def Info: powercontour.pdf used on input line 185.
+(pdftex.def)             Requested size: 241.84842pt x 212.65018pt.
 
-<fluxvsshear.pdf, id=35, 584.73657pt x 452.13216pt>
+<fluxvsshear.pdf, id=45, 584.73657pt x 301.3408pt>
 File: fluxvsshear.pdf Graphic file (type pdf)
  <use fluxvsshear.pdf>
-Package pdftex.def Info: fluxvsshear.pdf used on input line 220.
-(pdftex.def)             Requested size: 241.84842pt x 186.99663pt.
+Package pdftex.def Info: fluxvsshear.pdf used on input line 195.
+(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
 
-[3 <./densgrad.pdf> <./shearandgrad.pdf> <./powercontour.pdf>]
-<fluxcomps.pdf, id=69, 401.66762pt x 602.9225pt>
+[3 <./shearandgrad.pdf> <./powercontour.pdf> <./fluxvsshear.pdf>]
+<fluxcomps.pdf, id=79, 401.66762pt x 602.80205pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
-Package pdftex.def Info: fluxcomps.pdf used on input line 230.
-(pdftex.def)             Requested size: 241.84842pt x 363.03506pt.
+Package pdftex.def Info: fluxcomps.pdf used on input line 205.
+(pdftex.def)             Requested size: 241.84842pt x 362.96254pt.
 
-<radcorr.pdf, id=70, 584.73657pt x 452.13216pt>
+<radcorr.pdf, id=80, 584.73657pt x 452.13216pt>
 File: radcorr.pdf Graphic file (type pdf)
  <use radcorr.pdf>
-Package pdftex.def Info: radcorr.pdf used on input line 258.
+Package pdftex.def Info: radcorr.pdf used on input line 233.
 (pdftex.def)             Requested size: 241.84842pt x 186.99663pt.
- [4 <./fluxvsshear.pdf> <./fluxcomps.pdf>] (./FlowModPRL_TexV1preprint.bbl) [5 
-<./radcorr.pdf>] (./FlowModPRL_TexV1preprint.aux) ) 
+ [4 <./fluxcomps.pdf> <./radcorr.pdf>] (./FlowModPRL_TexV1preprint.bbl) [5]
+(./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
- 4530 strings out of 493629
- 59173 string characters out of 3146671
- 142452 words of memory out of 3000000
- 7752 multiletter control sequences out of 15000+200000
+ 4533 strings out of 493629
+ 59202 string characters out of 3146671
+ 137452 words of memory out of 3000000
+ 7755 multiletter control sequences out of 15000+200000
  13994 words of font info for 52 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,6n,26p,1602b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
-<c:/texlive/2011/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.
-pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/te
-xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2011/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pf
-b>
-Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 17264455 bytes).
+ 38i,6n,26p,1614b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2
+011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2011/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2011/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 14476021 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
