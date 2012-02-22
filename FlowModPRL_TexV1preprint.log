@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  21 FEB 2012 12:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  21 FEB 2012 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,11 +366,11 @@ File: fluxcomps.pdf Graphic file (type pdf)
 Package pdftex.def Info: fluxcomps.pdf used on input line 205.
 (pdftex.def)             Requested size: 241.84842pt x 362.96254pt.
  [3 <./shearandgrad.pdf> <./powercontour.pdf> <./fluxvsshear.pdf>]
-<radcorr.pdf, id=80, 584.73657pt x 452.13216pt>
+<radcorr.pdf, id=80, 584.73657pt x 301.3408pt>
 File: radcorr.pdf Graphic file (type pdf)
  <use radcorr.pdf>
 Package pdftex.def Info: radcorr.pdf used on input line 233.
-(pdftex.def)             Requested size: 241.84842pt x 186.99663pt.
+(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
  [4 <./fluxcomps.pdf> <./radcorr.pdf>] (./FlowModPRL_TexV1preprint.bbl
 Underfull \hbox (badness 2600) in paragraph at lines 99--106
  \OT1/cmr/m/n/9 J. Gern-hardt, G. v.Gierke, G. Haas, M. Huang,
@@ -378,10 +378,10 @@ Underfull \hbox (badness 2600) in paragraph at lines 99--106
 
 ) [5] (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
- 4564 strings out of 493629
- 59699 string characters out of 3146671
- 147412 words of memory out of 3000000
- 7786 multiletter control sequences out of 15000+200000
+ 4563 strings out of 493629
+ 59688 string characters out of 3146671
+ 145412 words of memory out of 3000000
+ 7785 multiletter control sequences out of 15000+200000
  13994 words of font info for 52 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,6n,26p,1614b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -397,10 +397,10 @@ e1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 ><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 14474002 bytes).
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 13619294 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 160 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
