@@ -51,6 +51,14 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
+\bibitem [{\citenamefont {Carter}\ and\ \citenamefont
+  {Maggs}(2009)}]{carter09}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Carter}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Maggs}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Phys. Plasmas}\
+  }\textbf {\bibinfo {volume} {16}},\ \bibinfo {pages} {012304} (\bibinfo
+  {year} {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Wagner}\ \emph {et~al.}(1982)\citenamefont {Wagner},
   \citenamefont {Becker}, \citenamefont {Behringer}, \citenamefont {Campbell},
   \citenamefont {Eberhagen}, \citenamefont {Engelhardt}, \citenamefont
@@ -192,14 +200,6 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Phys. Plasmas}\
   }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {052507} (\bibinfo
   {year} {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Carter}\ and\ \citenamefont
-  {Maggs}(2009)}]{carter09}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Carter}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Maggs}},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Phys. Plasmas}\
-  }\textbf {\bibinfo {volume} {16}},\ \bibinfo {pages} {012304} (\bibinfo
-  {year} {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Weynants}\ and\ \citenamefont
   {Oost}(1993)}]{weynants93}%
   \BibitemOpen
@@ -251,7 +251,7 @@
   {B.}~\bibnamefont {Friedman}}, \ and\ \bibinfo {author} {\bibfnamefont
   {D.}~\bibnamefont {Schaffner}},\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {Phys. Plasmas}\ }\textbf {\bibinfo {volume} {19}},\
-  \bibinfo {pages} {99999999} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
+  \bibinfo {pages} {012116} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Gekelman}\ \emph {et~al.}(1991)\citenamefont
   {Gekelman}, \citenamefont {Pfister}, \citenamefont {Lucky}, \citenamefont
   {Bamber}, \citenamefont {Leneman},\ and\ \citenamefont {Maggs}}]{gek91}%
