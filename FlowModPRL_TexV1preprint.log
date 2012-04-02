@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  2 APR 2012 11:14
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  2 APR 2012 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,28 +234,28 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Info: Redefining \bm on input line 204.
 )
-Class revtex4-1 Info: Patching array package. on input line 64.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 64.
+Class revtex4-1 Info: Patching array package. on input line 66.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 66.
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 64.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 64.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 64.
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 66.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 66.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 66.
 
 (./FlowModPRL_TexV1preprint.aux)
 \openout1 = `FlowModPRL_TexV1preprint.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 (c:/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -319,12 +319,12 @@ e
 ))
 \openout3 = `FlowModPRL_TexV1preprintNotes.bib'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 90.
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
 
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 90.
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
 
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -333,76 +333,80 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 File: velocity_flowshear.pdf Graphic file (type pdf)
 
 <use velocity_flowshear.pdf>
-Package pdftex.def Info: velocity_flowshear.pdf used on input line 118.
+Package pdftex.def Info: velocity_flowshear.pdf used on input line 120.
 (pdftex.def)             Requested size: 241.84842pt x 304.46631pt.
  <densgrad.pdf, id=15, 584.73657pt x 301.3408pt>
 File: densgrad.pdf Graphic file (type pdf)
 
 <use densgrad.pdf>
-Package pdftex.def Info: densgrad.pdf used on input line 126.
+Package pdftex.def Info: densgrad.pdf used on input line 128.
+(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+ <shearandgrad.pdf, id=16, 584.73657pt x 301.3408pt>
+File: shearandgrad.pdf Graphic file (type pdf)
+
+<use shearandgrad.pdf>
+Package pdftex.def Info: shearandgrad.pdf used on input line 138.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
  [2 <./velocity_flowshear.pdf> <./densgrad.pdf>]
-<shearandgrad.pdf, id=49, 584.73657pt x 301.3408pt>
-File: shearandgrad.pdf Graphic file (type pdf)
- <use shearandgrad.pdf>
-Package pdftex.def Info: shearandgrad.pdf used on input line 136.
-(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 144.
 
 <powercontour.pdf, id=50, 584.73657pt x 514.15887pt>
 File: powercontour.pdf Graphic file (type pdf)
  <use powercontour.pdf>
-Package pdftex.def Info: powercontour.pdf used on input line 147.
+Package pdftex.def Info: powercontour.pdf used on input line 149.
 (pdftex.def)             Requested size: 241.84842pt x 212.65018pt.
 
 <fluxvsshear.pdf, id=51, 584.73657pt x 301.3408pt>
 File: fluxvsshear.pdf Graphic file (type pdf)
  <use fluxvsshear.pdf>
-Package pdftex.def Info: fluxvsshear.pdf used on input line 158.
+Package pdftex.def Info: fluxvsshear.pdf used on input line 160.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
 
 <fluxcomps.pdf, id=52, 390.46678pt x 575.7038pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
-Package pdftex.def Info: fluxcomps.pdf used on input line 169.
+Package pdftex.def Info: fluxcomps.pdf used on input line 171.
 (pdftex.def)             Requested size: 241.84842pt x 356.59007pt.
  [3 <./shearandgrad.pdf> <./powercontour.pdf> <./fluxvsshear.pdf>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 175.
+ on input line 177.
 
 <radcorr.pdf, id=97, 584.73657pt x 301.3408pt>
 File: radcorr.pdf Graphic file (type pdf)
  <use radcorr.pdf>
-Package pdftex.def Info: radcorr.pdf used on input line 180.
+Package pdftex.def Info: radcorr.pdf used on input line 182.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
 
-(./FlowModPRL_TexV1preprint.bbl [4 <./fluxcomps.pdf> <./radcorr.pdf>]
+(./FlowModPRL_TexV1preprint.bbl
 Underfull \hbox (badness 2600) in paragraph at lines 107--114
  \OT1/cmr/m/n/9 J. Gern-hardt, G. v.Gierke, G. Haas, M. Huang,
  []
 
-) [5] (./FlowModPRL_TexV1preprint.aux) ) 
+[4 <./fluxcomps.pdf> <./radcorr.pdf>]) [5] (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
- 4536 strings out of 493629
- 59421 string characters out of 3146671
- 141412 words of memory out of 3000000
- 7769 multiletter control sequences out of 15000+200000
+ 4537 strings out of 493629
+ 59429 string characters out of 3146671
+ 139412 words of memory out of 3000000
+ 7770 multiletter control sequences out of 15000+200000
  9653 words of font info for 36 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,6n,26p,1600b,316s stack positions out of 5000i,500n,10000p,200000b,50000s
-<c:/texlive/2011/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/tex
-live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2011/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2011/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2011/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
->
-Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 45772005 bytes).
+ 38i,6n,26p,1600b,314s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c
+:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2011/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2011/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/
+2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2011/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2011/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 45772032 bytes).
 PDF statistics:
  174 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
