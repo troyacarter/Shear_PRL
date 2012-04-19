@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  16 APR 2012 23:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  19 APR 2012 01:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,12 +333,12 @@ Underfull \hbox (badness 2653) in paragraph at lines 114--116
 \OT1/cmr/m/n/10 which al-lows for sep-a-rate anal-y-sis of fluc-tu-a-tions,
  []
 
-<velocity_flowshear.pdf, id=14, 602.80205pt x 758.89223pt>
+<velocity_flowshear.pdf, id=14, 602.80205pt x 758.53186pt>
 File: velocity_flowshear.pdf Graphic file (type pdf)
 
 <use velocity_flowshear.pdf>
 Package pdftex.def Info: velocity_flowshear.pdf used on input line 120.
-(pdftex.def)             Requested size: 241.84842pt x 304.46631pt.
+(pdftex.def)             Requested size: 241.84842pt x 304.32173pt.
  <densgrad.pdf, id=15, 584.73657pt x 301.3408pt>
 File: densgrad.pdf Graphic file (type pdf)
 
@@ -351,50 +351,50 @@ File: shearandgrad.pdf Graphic file (type pdf)
 <use shearandgrad.pdf>
 Package pdftex.def Info: shearandgrad.pdf used on input line 135.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
- <powercontour.pdf, id=17, 584.73657pt x 514.15887pt>
+ <powercontour.pdf, id=17, 580.88214pt x 598.46689pt>
 File: powercontour.pdf Graphic file (type pdf)
 
 <use powercontour.pdf>
 Package pdftex.def Info: powercontour.pdf used on input line 145.
-(pdftex.def)             Requested size: 241.84842pt x 212.65018pt.
+(pdftex.def)             Requested size: 241.84842pt x 249.17186pt.
  [2 <./velocity_flowshear.pdf>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
  on input line 150.
 
-<fluxvsshear.pdf, id=42, 584.73657pt x 301.3408pt>
+<fluxvsshear.pdf, id=44, 584.73657pt x 301.3408pt>
 File: fluxvsshear.pdf Graphic file (type pdf)
  <use fluxvsshear.pdf>
 Package pdftex.def Info: fluxvsshear.pdf used on input line 155.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
 
-<fluxcomps.pdf, id=43, 389.62363pt x 547.76146pt>
+<fluxcomps.pdf, id=45, 401.66762pt x 551.13405pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
 Package pdftex.def Info: fluxcomps.pdf used on input line 164.
-(pdftex.def)             Requested size: 241.84842pt x 340.01814pt.
+(pdftex.def)             Requested size: 241.84842pt x 331.85191pt.
 
-<radcorr.pdf, id=44, 584.73657pt x 301.3408pt>
+<radcorr.pdf, id=46, 584.73657pt x 339.03865pt>
 File: radcorr.pdf Graphic file (type pdf)
  <use radcorr.pdf>
 Package pdftex.def Info: radcorr.pdf used on input line 171.
-(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+(pdftex.def)             Requested size: 241.84842pt x 140.22246pt.
  [3 <./densgrad.pdf> <./shearandgrad.pdf> <./powercontour.pdf> <./fluxvsshear.p
 df>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 182.
+ on input line 177.
 
 (./FlowModPRL_TexV1preprint.bbl [4 <./fluxcomps.pdf> <./radcorr.pdf>]) [5]
 (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
  4568 strings out of 493629
- 59759 string characters out of 3146671
+ 59760 string characters out of 3146671
  136026 words of memory out of 3000000
  7790 multiletter control sequences out of 15000+200000
  13994 words of font info for 52 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,6n,26p,1629b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,6n,26p,1629b,314s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/texlive/2011/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
@@ -407,10 +407,10 @@ lic/amsfonts/cm/cmr7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 45389050 bytes).
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 45481590 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 171 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
