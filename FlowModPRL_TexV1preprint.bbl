@@ -1,5 +1,5 @@
 \providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
-\begin{thebibliography}{28}
+\begin{thebibliography}{29}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -276,6 +276,14 @@
 \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Powers}},
   \bibinfo{journal}{Nucl. Fusion} \textbf{\bibinfo{volume}{14}},
   \bibinfo{pages}{749} (\bibinfo{year}{1974}).
+
+\bibitem[{\citenamefont{Terry et~al.}(2001)\citenamefont{Terry, Newman, and
+  Ware}}]{terry01}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Terry}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Newman}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Ware}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{87}},
+  \bibinfo{pages}{18} (\bibinfo{year}{2001}).
 
 \bibitem[{\citenamefont{Umansky et~al.}(2011)\citenamefont{Umansky, Popovich,
   Carter, Friedman, and Nevins}}]{umansky11}
