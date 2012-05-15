@@ -4,24 +4,16 @@
 \usepackage{dcolumn}% Align table columns on decimal point
 \usepackage{bm}% bold math
 
-% Alter some LaTeX defaults for better treatment of figures:
-    % See p.105 of "TeX Unbound" for suggested values.
-    % See pp. 199-200 of Lamport's "LaTeX" book for details.
-    %   General parameters, for ALL pages:
     \renewcommand{\topfraction}{0.9}    % max fraction of floats at top
     \renewcommand{\bottomfraction}{0.8}    % max fraction of floats at bottom
-    %   Parameters for TEXT pages (not float pages):
     \setcounter{topnumber}{2}
     \setcounter{bottomnumber}{2}
     \setcounter{totalnumber}{4}     % 2 may work better
     \setcounter{dbltopnumber}{2}    % for 2-column pages
     \renewcommand{\dbltopfraction}{0.9}    % fit big float above 2-col. text
     \renewcommand{\textfraction}{0.07}    % allow minimal text w. figs
-    %   Parameters for FLOAT pages (not text pages):
     \renewcommand{\floatpagefraction}{0.7}    % require fuller float pages
-    % N.B.: floatpagefraction MUST be less than topfraction !!
     \renewcommand{\dblfloatpagefraction}{0.7}    % require fuller float pages
-    % remember to use [htp] or [htpb] for placement
     \setlength{\abovecaptionskip}{5pt}
     \setlength{\belowcaptionskip}{5pt}
     \setlength{\parskip}{0pt}
@@ -29,7 +21,8 @@
 
 \begin{document}
 %\title{Reduction of turbulent fluctuations and crossphase through driven sheared flow on the Large Plasma Device}
-\title{Observation of improved and degraded confinement with driven flow on the LAPD}
+\title{Modification of turbulent transport with continuous variation of
+  flow shear in the Large Plasma Device}
 \author{D.A. Schaffner}
 \affiliation{Department of Physics and Astronomy, University of California, Los Angeles.}
 \author{T.A Carter}
@@ -49,14 +42,10 @@
 \date{\today}
 
 \begin{abstract}
-Continuous control over azimuthal flow and shear in the edge of the Large Plasma Device (LAPD) has been acheived using a biasable limiter which has allowed a careful study of the effect of flow shear on pressure-gradient-driven turbulence and transport in LAPD. LAPD rotates spontaneously in the ion diamagnetic direction (IDD); positive limiter bias first reduces, then minimizes (producing a near-zero shear state), and finally reverses the flow into the electron diamagnetic direction (EDD). Degradation of particle confinement is observed in the minimum shearing state and reduction in turbulent particle flux is observed with increasing shearing in both flow directions. Near-complete suppression of turbulent particle flux is observed for shearing rates comparable to the turbulent autocorrelation rate measured in the minimum shear state.  Turbulent flux suppression is dominated by amplitude reduction in low-frequency ($<10$kHz) density fluctuations and a reduction in the radial correlation length. An increase in fluctuations for the highest shearing states is observed with the emergence of a coherent mode which does not lead to net particle transport. The variations of density fluctuation and radial correlation length are fit well with power-laws and compare favorably to simple models of shear suppression of transport.
+Continuous control over azimuthal flow and shear in the edge of the Large Plasma Device (LAPD) has been achieved using a biasable limiter which has allowed a careful study of the effect of flow shear on pressure-gradient-driven turbulence and transport in LAPD. LAPD rotates spontaneously in the ion diamagnetic direction (IDD); positive limiter bias first reduces, then minimizes (producing a near-zero shear state), and finally reverses the flow into the electron diamagnetic direction (EDD). Degradation of particle confinement is observed in the minimum shearing state and reduction in turbulent particle flux is observed with increasing shearing in both flow directions. Near-complete suppression of turbulent particle flux is observed for shearing rates comparable to the turbulent autocorrelation rate measured in the minimum shear state.  Turbulent flux suppression is dominated by amplitude reduction in low-frequency ($<10$kHz) density fluctuations and a reduction in the radial correlation length. An increase in fluctuations for the highest shearing states is observed with the emergence of a coherent mode which does not lead to net particle transport. The variations of density fluctuation and radial correlation length are fit well with power-laws and compare favorably to simple models of shear suppression of transport.
 \end{abstract}
 
 \maketitle
-%\section{Introduction}  No need for section titles in PRL, save space
-
-%% Need to start with discussion of H-mode, role of flow.  Cite BDT, recent reviews of flow-shear interaction (Terry, Diamond, Tynan).  Move immediately to set up why this study is uni
-
 While flow shear does provide a source of free energy for instability and turbulence, it can lead to stabilization of pressure-gradient-driven instabilities and a reduction of turbulent transport in magnetized plasmas~\cite{burrell97, terry00}.  The transport barrier in the high-confinement mode, or H-mode, of tokamak operation~\cite{wagner82} is attributed to the spontaneous development of an edge flow layer in which  strong shearing suppresses transport~\cite{burrell97, terry00}.  The direct connection between the H-mode edge flow layer and improved confinement was first established in experiments on the Continuous Current Tokamak (CCT) in which transport barriers were generated by directly driving edge flow using torque due to radial currents driven by biased electrodes~\cite{taylor89,tynan92}.  Biasing has been used to produce improved confinement in a number of subsequent experiments including toroidal devices~\cite{weynants92,boedo00,silva06,craig97,chapman98,shats00} and linear magnetized plasmas~\cite{sakai93,maggs07,carter09}. Turbulence can self-regulate through the generation of flows and flow shear (zonal flows); this effect is often invoked to explain saturation of drift turbulence and as a possible explanation for spontaneous confinement transitions in fusion devices~\cite{terry00,diamond05}.  Direct evidence for turbulent-Reynolds-stress-driven flow has been reported in a cylindrical magnetized plasma device~\cite{holland06}. 
 
 While ample evidence for transport reduction in the presence of sheared flow exists~\cite{burrell99, tynan09} and significant effort and progress has been made in developing a theoretical understanding of the interaction between sheared flow and turbulence, there are still a number of open questions that can be answered by
@@ -114,7 +103,7 @@ limiter, plasma on field lines with radial location $r>26$cm sees the
 limiter as a conducting end boundary condition and plasma on field
 lines for $r<26$cm sees the anode/cathode of the source region as a
 parallel boundary condition.  A capacitor back connected to a transistor switch supplies a bias voltage pulse to the limiter.  The
-bias pulse lasted 5ms during the flattop of the $\sim 15$ms plasma
+bias pulse lasted 5ms during the flat-top of the $\sim 15$ms plasma
 discharge. The limiter was biased from $\sim 10$V below the anode
 potential to 50V above the anode voltage.  Typically plasma potential
 in the core LAPD plasma (plasma on field lines that connect to the
@@ -320,7 +309,7 @@ suppression, including comparisons to two-fluid simulations using the
 BOUT++ 3D turbulence code~\cite{umansky11}.  
 
 This letter presents the first experiments in which the response of
-pressure-gradient-driven turbulence to a continous
+pressure-gradient-driven turbulence to a continuous
 variation of shearing rate, including a near-zero flow shear state and
 a reversal in the direction of flow, is studied.  Increased shearing
 improves radial particle confinement regardless of the direction of
