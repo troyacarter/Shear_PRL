@@ -1,5 +1,5 @@
 \providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
-\begin{thebibliography}{22}
+\begin{thebibliography}{28}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -171,6 +171,23 @@
   \bibinfo{journal}{Plasma Phys. Control Fusion} \textbf{\bibinfo{volume}{47}},
   \bibinfo{pages}{R35} (\bibinfo{year}{2005}).
 
+\bibitem[{\citenamefont{Holland et~al.}(2006)\citenamefont{Holland, Yu, James,
+  Nishikima, Shimada, Taheri, and Tynan}}]{holland06}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Holland}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{James}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Nishikima}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Shimada}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Taheri}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Tynan}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{96}},
+  \bibinfo{pages}{195002} (\bibinfo{year}{2006}).
+
+\bibitem[{\citenamefont{Burrell}(1999)}]{burrell99}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Burrell}},
+  \bibinfo{journal}{Phys. Plasmas} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{12} (\bibinfo{year}{1999}).
+
 \bibitem[{\citenamefont{Tynan et~al.}(2009)\citenamefont{Tynan, Fujisawa, and
   McKee}}]{tynan09}
 \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Tynan}},
@@ -186,6 +203,14 @@
   \bibinfo{author}{\bibfnamefont{P.~W.} \bibnamefont{Terry}},
   \bibinfo{journal}{Phys. Fluids B.} \textbf{\bibinfo{volume}{2}},
   \bibinfo{pages}{1} (\bibinfo{year}{1990}).
+
+\bibitem[{\citenamefont{Kim et~al.}(2004)\citenamefont{Kim, Diamond, and
+  Hahm}}]{kim04}
+\bibinfo{author}{\bibfnamefont{E.-J.} \bibnamefont{Kim}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Diamond}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Hahm}},
+  \bibinfo{journal}{Phys. Plasmas} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{10} (\bibinfo{year}{2004}).
 
 \bibitem[{\citenamefont{Ware et~al.}(1996)\citenamefont{Ware, Terry, Diamond,
   and Carreras}}]{ware96}
@@ -209,6 +234,11 @@
   \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{77}},
   \bibinfo{pages}{10} (\bibinfo{year}{1996}).
 
+\bibitem[{\citenamefont{Jassby}(1972)}]{jass72}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Jassby}},
+  \bibinfo{journal}{Phys. Fluids} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{9} (\bibinfo{year}{1972}).
+
 \bibitem[{\citenamefont{Gekelman et~al.}(1991)\citenamefont{Gekelman, Pfister,
   Lucky, Bamber, Leneman, and Maggs}}]{gek91}
 \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Gekelman}},
@@ -219,6 +249,15 @@
   \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Maggs}},
   \bibinfo{journal}{Rev. Sci. Instrum.} \textbf{\bibinfo{volume}{62}},
   \bibinfo{pages}{2875} (\bibinfo{year}{1991}).
+
+\bibitem[{\citenamefont{Holland et~al.}(2004)\citenamefont{Holland, Tynan,
+  McKee, and Fonck}}]{holland04}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Holland}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Tynan}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{McKee}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Fonck}},
+  \bibinfo{journal}{Rev. Sci. Inst.} \textbf{\bibinfo{volume}{75}},
+  \bibinfo{pages}{10} (\bibinfo{year}{2004}).
 
 \bibitem[{\citenamefont{Zhou et~al.}(2012)\citenamefont{Zhou, Heidbrink,
   Boehmer, McWilliams, Carter, Vincena, Friedman, and Schaffner}}]{zhou12}
@@ -237,5 +276,15 @@
 \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Powers}},
   \bibinfo{journal}{Nucl. Fusion} \textbf{\bibinfo{volume}{14}},
   \bibinfo{pages}{749} (\bibinfo{year}{1974}).
+
+\bibitem[{\citenamefont{Umansky et~al.}(2011)\citenamefont{Umansky, Popovich,
+  Carter, Friedman, and Nevins}}]{umansky11}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Umansky}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Popovich}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Carter}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Friedman}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Nevins}},
+  \bibinfo{journal}{Phys. Plasmas} \textbf{\bibinfo{volume}{18}},
+  \bibinfo{pages}{055709} (\bibinfo{year}{2011}).
 
 \end{thebibliography}
