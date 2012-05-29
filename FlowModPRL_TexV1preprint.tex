@@ -42,7 +42,7 @@
 \date{\today}
 
 \begin{abstract}
-Continuous control over azimuthal flow and shear in the edge of the Large Plasma Device (LAPD) has been achieved using a biasable limiter which has allowed a careful study of the effect of flow shear on pressure-gradient-driven turbulence and transport in LAPD. LAPD rotates spontaneously in the ion diamagnetic direction (IDD); positive limiter bias first reduces, then minimizes (producing a near-zero shear state), and finally reverses the flow into the electron diamagnetic direction (EDD). Degradation of particle confinement is observed in the minimum shearing state and reduction in turbulent particle flux is observed with increasing shearing in both flow directions. Near-complete suppression of turbulent particle flux is observed for shearing rates comparable to the turbulent autocorrelation rate measured in the minimum shear state.  Turbulent flux suppression is dominated by amplitude reduction in low-frequency ($<10$kHz) density fluctuations and a reduction in the radial correlation length. An increase in fluctuations for the highest shearing states is observed with the emergence of a coherent mode which does not lead to net particle transport. The variations of density fluctuation and radial correlation length are fit well with power-laws and compare favorably to simple models of shear suppression of transport.
+Continuous control over azimuthal flow and shear in the edge of the Large Plasma Device (LAPD) has been achieved using a biasable limiter which has allowed a careful study of the effect of flow shear on pressure-gradient-driven turbulence and transport in LAPD. LAPD rotates spontaneously in the ion diamagnetic direction (IDD); positive limiter bias first reduces, then minimizes (producing a near-zero shear state), and finally reverses the flow into the electron diamagnetic direction (EDD). Degradation of particle confinement is observed in the minimum shearing state and reduction in turbulent particle flux is observed with increasing shearing in both flow directions. Near-complete suppression of turbulent particle flux is observed for shearing rates comparable to the turbulent autocorrelation rate measured in the minimum shear state.  Turbulent flux suppression is dominated by amplitude reduction in low-frequency ($<10$kHz) $I_{sat}$ fluctuations and a reduction in the radial correlation length. An increase in fluctuations for the highest shearing states is observed with the emergence of a coherent mode which does not lead to net particle transport. The variations of density fluctuation and radial correlation length are fit well with power-laws and compare favorably to simple models of shear suppression of transport.
 \end{abstract}
 
 \maketitle
@@ -53,11 +53,9 @@ experiment.  In particular, the exact mechanism behind turbulence modification a
 the fact that most datasets on flow-turbulence interaction come from studies of spontaneously generated flow or in cases where precise external control over flow and flow shear is not possible.  A number of basic plasma experiments have utilized biasing techniques to drive
 flow and flow shear to study flow driven instabilities (e.g. \cite{amatucci96,jass72}); however, experiments have not been successfully done in which precise external control over flow shear has been achieved in the presence of drift-wave turbulence to systematically study the changes in turbulence characteristics and transport.
 
-In this letter, we report on the first experiments in which external control of flow is used to document the response of turbulence and transport to a continuous variation of flow shear, including a zero shear state and a reversal of the flow direction. Shearing rates ($\omega_{s}= \partial V_{\theta}/\partial r$) from
-zero to up to five times the turbulent autocorrelation rate measured at zero flow shear ($\Delta \omega_{d}$) are achieved. Turbulent particle flux is reduced with increasing shearing rate, regardless of the direction of the flow or sign of the flow shear, with significant reduction occuring for $\omega_s \sim \Delta \omega_d$.  The observed reduction in particle flux is dominated by decreases in low-frequency ($f < 10$kHz) density fluctuation amplitude and a reduction of the
-radial correlation length is also observed. For low frequency fluctuations, the crossphase between density and azimuthal electric field fluctuations remain near
-zero for all shearing rates.  With higher shear ($\omega_s > \Delta \omega_d$) we observe the emergence of a coherent mode localized spatially in the region
-of strong flow. Fluctuations from this mode appear to increase density fluctuations above 10kHz, but do not appear to contribute to particle flux.   
+In this letter, we report on the first experiments in which external control of flow is used to document the response of turbulence and transport to a continuous variation of flow shear, including a zero shear state and a reversal of the flow direction. Shearing rates ($\gamma_{s}= \partial V_{\theta}/\partial r$) from
+zero to up to five times the turbulent autocorrelation rate measured at zero flow shear ($\gamma_{\tau} = (\tau_{ac})^{-1}$) are achieved. Turbulent particle flux is reduced with increasing shearing rate, regardless of the direction of the flow or sign of the flow shear, with significant reduction occuring for $\gamma_{s} \sim \gamma_{\tau}$.  The observed reduction in particle flux is dominated by decreases in low-frequency ($f < 10$kHz) $I_{sat}$ fluctuation amplitude and a reduction of the radial correlation length is also observed. For low frequency fluctuations, the crossphase between $I_{sat}$ and azimuthal electric field fluctuations remain near zero for all shearing rates.  With higher shear ($\gamma_{s} > \gamma_{\tau}$) we observe the emergence of a coherent mode localized spatially in the region
+of strong flow. Fluctuations from this mode appear to increase $I_{sat}$ fluctuations above 10kHz, but do not appear to contribute to particle flux.   
 
 The Large Plasma Device \cite{gek91} (LAPD) is a 17m long, $\sim 60$cm
 diameter cylindrical plasma produced by a barium-oxide coated nickel
@@ -69,7 +67,7 @@ potential and floating potential) are made using Langmuir probes.
 Measurements of ion saturation current ($I_{\rm sat} \propto n_e \sqrt{T_e}$) and floating
 potential ($V_f$) are taken with a 9-tip Langmuir probe (flush-mount
 tantalum tips) while temperature and plasma potential are
-determined using a swept Langmuir probe. Turbulent particle flux
+determined using a swept Langmuir probe. $I_{sat}$ fluctuations are taken as a proxy for density fluctuations. Turbulent particle flux
 $\Gamma \propto \left<\tilde{n}_e \tilde{E}_\theta\right>$ is
 determined through correlating $I_{\rm sat}$ fluctuations from one tip
 of this probe with
@@ -103,9 +101,8 @@ limiter, plasma on field lines with radial location $r>26$cm saw the
 limiter as a conducting end boundary condition and plasma on field
 lines for $r<26$cm saw the anode/cathode of the source region as a
 parallel boundary condition.  A capacitor bank connected to a transistor switch supplies a bias voltage pulse to the limiter.  The
-bias pulse lasted 5ms during the flat-top of the $\sim 15$ms plasma
-discharge. The limiter was biased from $\sim 10$V below the anode
-potential to 50V above the anode voltage.  Typically plasma potential
+bias pulse lasts 5ms during the flat-top of the $\sim 15$ms plasma
+discharge. The limiter is biased from $\sim 10$V below to 50V above the anode potential.  Typically, plasma potential
 in the core LAPD plasma (plasma on field lines that connect to the
 source region) is very close to the anode voltage and the cathode sits
 near ground (vacuum chamber wall).  The anode potential was above the
@@ -114,7 +111,7 @@ cathode potential by the discharge voltage, which was $\sim 40$V during these ex
 \begin{figure}[!htbp]
 \centerline{
 \includegraphics[width=8.5cm]{velocity_flowshear}}
-\caption{\label{fig:velocity_flowshear} (a) Velocity profiles using plasma potential from swept measurements. (b) Nearly linear scaling of flow (black) and shearing (red) versus limiter bias. Note that the bias state of zero mean absolute shear does not occur at the same bias state of zero average flow.}
+\caption{\label{fig:velocity_flowshear} (a) Velocity profiles using plasma potential from swept measurements. (b) Nearly linear scaling of flow at the limiter edge (black) and mean shearing (red) versus limiter bias, averaged over $27 < r < 31$cm. Note that the bias state of zero mean absolute shear does not occur at the same bias state of zero average flow.}
 \end{figure}
 
 Spontaneous azimuthal rotation of the LAPD plasma is observed when the limiters are
@@ -128,7 +125,7 @@ diamagnetic direction (EDD).  As the limiter bias is increased, the
 flow in the IDD is first reduced, then brought to a near-zero flow
 and flow-shear state, and ultimately reversed with strong EDD flow.
 
-Measurements of profiles of density ($I_{\rm sat}$) and particle flux
+Measurements of profiles of $I_{\rm sat}$ and particle flux
 were made for each bias flow state. Values are averaged over a range
 from $r=27$cm to $r=31$cm, a region where average flow and flow shear scale
 nearly linearly with limiter bias, as shown in
@@ -141,44 +138,41 @@ quantities shown in this paper are averaged over the same region in space.
 \caption{\label{fig:densgrad} Density gradient length scale versus limiter bias. Inset shows density profile relaxing then steepening again with bias.}
 \end{figure}
 
-Figure~\ref{fig:densgrad} shows the variation in the spatially-averaged density gradient length scale, $L_{n} = \lvert \nabla \ln n \rvert ^{-1}$ with
+Figure~\ref{fig:densgrad} shows the variation in the spatially-averaged $I_{sat}$ gradient length scale, $L_{n} = \lvert \nabla \ln n \rvert ^{-1}$ with
 increasing limiter bias.  As the limiter bias is increased, reducing
 the IDD flow, an increase in the gradient scale length is observed,
-indicating a degradation of radial particle confinement which peaks
+indicating a degradation of radial particle confinement. The gradient scale length peaks
 when the averaged shearing rate is near zero. As the bias is
 increased further, reversing the flow and again increasing the
-shearing rate, the density gradient gradually steepens and the
+shearing rate, the gradient gradually steepens and the
 scale length is lowered, indicating improved radial particle confinement.  
 
 \begin{figure}[!htbp]
 \centerline{
 \includegraphics[width=8.5cm]{shearandgrad}}
 \caption{\label{fig:shearandgrad} Gradient scale length versus
-  shearing rate. Inset: Measured turbulent particle flux versus
-  gradient scale length.}
+  shearing rate.}
 \end{figure}
 
 The observed variation of $\langle L_{n} \rangle$ with bias is best
-organized when compared to the average shearing rate, $\omega_s$ as is
+organized when compared to the shearing rate, $\gamma_{s}$ as is
 shown in Figure~\ref{fig:shearandgrad}.   The shearing rate is
 normalized to the autocorrelation rate of $I_{\rm sat}$ fluctuations
-measured in the zero-shear state.  An autocorrelation rate of $\Delta
-\omega_{d} \approx $ 28kHz $(\tau_{ac} \approx 36\mu s)$ is calculated by taking the half-width at
+measured in the zero-shear state.  An autocorrelation rate of $\gamma_{\tau} \approx $ 28kHz $(\tau_{ac} \approx 36\mu s)$ is calculated by taking the half-width at
 half-maximum of a Hilbert transform of the $I_{\rm sat}$
 autocorrelation function.  Confinement improvement (decreased $\langle
 L_n \rangle$) occurs continuously and gradually with increasing
-$\omega_{s}$ and reaches saturation for $\omega_{s} \approx \Delta
-\omega_{d}$ (a normalized $\omega_s$ of 1).  The profile steepening
+$\gamma_{s}$ and reaches saturation for $\gamma_{s} \approx \gamma_{\tau}$ (a normalized $\gamma_{s}$ of 1).  The profile steepening
 appears to be largely independent of the direction of the flow (or radial electric field): IDD (filled points) and EDD (open points) flow cases follow the same trend when plotted against normalized shearing rate.
 
 Measured changes in turbulence and turbulent particle flux are
 consistent with the observed changes in the density profile.  The
 turbulent particle flux can be written\cite{powers74}:
 \begin{equation}
-\Gamma = \frac{2}{B} \int^{\infty}_{0} \lvert n(\omega) \rvert \lvert E_{\theta}(\omega) \rvert \gamma_{n,E_{\theta}}(\omega) \cos [\phi_{n,E_{\theta}}(\omega)] d\omega
+\Gamma = \frac{2}{B} \int^{\infty}_{0} \lvert n(f) \rvert \lvert E_{\theta}(f) \rvert \gamma_{n,E_{\theta}}(f) \cos [\phi_{n,E_{\theta}}(f)] df
 \label{eq:fluxint}
 \end{equation}
-where $n(\omega)$ and $E_\theta(\omega)$ are the Fourier transforms of
+where $n(f)$ and $E_\theta(f)$ are the Fourier transforms of
 the density and azimuthal electric field fluctuations;
 $\gamma_{n,E_\theta}$ is the coherency between density and electric
 field; and $\phi_{n,E_\theta}$ is the cross-phase angle between
@@ -202,11 +196,12 @@ of Eqn.~\ref{eq:fluxint}.
 \includegraphics[width=8.5cm]{fluxvsshear}}
 \caption{\label{fig:fluxvsshear} Particle flux normalized to no-shear
   flux as a function of normalized shearing rate. Filled symbols
-  represent points with flow in the IDD.}
+  represent points with flow in the IDD. Inset: Measured turbulent particle flux versus
+  gradient scale length.}
 \end{figure}
 
 
-Density fluctuations were reduced significantly with increasing
+$I_{sat}$ fluctuations were reduced significantly with increasing
 shearing in these experiments.  Figure~\ref{fig:powercontour}(a) shows
 changes in the spatially-averaged $I_{\rm sat}$ fluctuation spectrum
 with shearing rate.  The shearing rate is signed in this figure, and
@@ -216,7 +211,7 @@ overall with increasing shearing rate.  A decrease of about one order
 of magnitude in fluctuation power is seen between the minimum shear
 state and the high shear regime where $L_n$ and particle flux are
 minimized; this is made clearer in Figure~\ref{fig:powercontour}(b).  At
-higher shearing rates, $\omega_s \gtrsim \Delta \omega_d$, a coherent
+higher shearing rates, $\gamma_{s} \gtrsim \gamma_{\tau}$, a coherent
 mode emerges.  The frequency of the mode increases with shearing rate
 and the fluctuation amplitude is localized to the peak of the
 azimuthal flow.
@@ -227,7 +222,7 @@ azimuthal flow.
 \caption{\label{fig:powercontour} (a) Contour plot of log $I_{\rm sat}$ fluctuation power versus shearing rate and frequency. (b) $I_{\rm sat}$ power spectra for four different values of shearing rate.}
 \end{figure}
 
-Figure~\ref{fig:fluxcomps}(a) shows the reduction in total density ($I_{\rm sat}$) fluctuation amplitude with shear in two frequency bands: all frequencies below 100kHz in black and all frequencies above 10kHz in red. With the emergence of the coherent mode, the
+Figure~\ref{fig:fluxcomps}(a) shows the reduction in total $I_{\rm sat}$ fluctuation amplitude with shear in two frequency bands: all frequencies below 100kHz in black and all frequencies above 10kHz in red. With the emergence of the coherent mode, the
 high frequency fluctuation amplitude does show an increasing trend at higher shearing
 rates but there is a strong overall decrease in fluctuation amplitude with shearing.
 A reduction is also seen in $E_\theta$ fluctuation amplitude, as shown in
@@ -249,8 +244,7 @@ turbulent cross-phase experienced a significant change, leading to
 reduced particle flux~\cite{carter09}.  In the experiments reported
 here, the magnetic field is higher (1000G versus 400G) and normalized
 shearing rates are lower (near unity).  Cross-phase change is expected
-in cases with very strong shearing ($\omega_s \gg \Delta
-\omega_d$)~\cite{terry01}.  Future experiments will explore the
+in cases with very strong shearing ($\gamma_{s} \gg \gamma_{\tau}$)~\cite{terry01}.  Future experiments will explore the
 variation of the turbulent response to higher normalized shearing
 through changing plasma parameters, in particular magnetic field.  
 
@@ -283,8 +277,8 @@ at higher shear, but the overall trend is a substantial reduction
 \begin{figure}[!htbp]
 \centerline{
 \includegraphics[width=8.5cm]{radcorr}}
-\caption{\label{fig:radcorr} Radially correlation lengths with
-  reference probes at 28,29,30,31 or 32cm. Inset shows 2D correlation
+\caption{\label{fig:radcorr} $\Delta r_{c}$ with
+  reference probes at 28,29,30,31 or 32cm with $\gamma_{s}$ averaged over measured $\Delta r_{c}$.  Inset shows 2D correlation
   structure for 3 cases: unbiased (spontaneous flow), minimum flow
   shear and strong EDD flow.}
 \end{figure}
@@ -292,8 +286,7 @@ at higher shear, but the overall trend is a substantial reduction
 Lastly, we add a comparison of our data to a simple theory, the
 Biglari-Diamond-Terry (BDT) model~\cite{biglari90}, which predicts a
 power-law scaling with shearing rate of the radial correlation length and turbulent
-amplitude of the form: $\left(\omega_{s}/\Delta
-\omega_{d}\right)^{-\alpha}$. A comparison of the power fit to the
+amplitude of the form: $\left(\gamma_{s}/\gamma_{\tau}\right)^{-\alpha}$. A comparison of the power fit to the
 predicted exponent is made for each quantity. As seen in
 Figure~\ref{fig:fluxcomps}, a best fit of $\alpha = 0.530$ compares
 favorably to the BDT prediction of $\alpha = 2/3$ for the reduction in

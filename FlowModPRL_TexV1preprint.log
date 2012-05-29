@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  16 MAY 2012 15:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  29 MAY 2012 13:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -297,45 +297,45 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 File: velocity_flowshear.pdf Graphic file (type pdf)
 
 <use velocity_flowshear.pdf>
-Package pdftex.def Info: velocity_flowshear.pdf used on input line 116.
+Package pdftex.def Info: velocity_flowshear.pdf used on input line 113.
 (pdftex.def)             Requested size: 241.84842pt x 304.32173pt.
  [4]
 <densgrad.pdf, id=28, 584.73657pt x 301.3408pt>
 File: densgrad.pdf Graphic file (type pdf)
  <use densgrad.pdf>
-Package pdftex.def Info: densgrad.pdf used on input line 140.
+Package pdftex.def Info: densgrad.pdf used on input line 137.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
  [5 <./velocity_flowshear.pdf> <./densgrad.pdf>]
 <shearandgrad.pdf, id=61, 584.73657pt x 301.3408pt>
 File: shearandgrad.pdf Graphic file (type pdf)
  <use shearandgrad.pdf>
-Package pdftex.def Info: shearandgrad.pdf used on input line 155.
+Package pdftex.def Info: shearandgrad.pdf used on input line 152.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
 
-[6 <./shearandgrad.pdf>] <fluxvsshear.pdf, id=83, 584.73657pt x 301.3408pt>
+[6 <./shearandgrad.pdf>] <fluxvsshear.pdf, id=77, 584.73657pt x 301.3408pt>
 File: fluxvsshear.pdf Graphic file (type pdf)
 
 <use fluxvsshear.pdf>
-Package pdftex.def Info: fluxvsshear.pdf used on input line 202.
+Package pdftex.def Info: fluxvsshear.pdf used on input line 196.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
- <powercontour.pdf, id=84, 580.88214pt x 598.46689pt>
+ <powercontour.pdf, id=78, 580.88214pt x 598.46689pt>
 File: powercontour.pdf Graphic file (type pdf)
 
 <use powercontour.pdf>
-Package pdftex.def Info: powercontour.pdf used on input line 226.
+Package pdftex.def Info: powercontour.pdf used on input line 221.
 (pdftex.def)             Requested size: 241.84842pt x 249.17186pt.
  [7 <./fluxvsshear.pdf>]
-<fluxcomps.pdf, id=107, 401.66762pt x 546.6774pt>
+<fluxcomps.pdf, id=95, 401.66762pt x 551.13405pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
-Package pdftex.def Info: fluxcomps.pdf used on input line 260.
-(pdftex.def)             Requested size: 241.84842pt x 329.16846pt.
- [8 <./powercontour.pdf>] <radcorr.pdf, id=132, 584.73657pt x 339.03865pt>
+Package pdftex.def Info: fluxcomps.pdf used on input line 254.
+(pdftex.def)             Requested size: 241.84842pt x 331.85191pt.
+ [8 <./powercontour.pdf>] <radcorr.pdf, id=135, 584.73657pt x 336.0274pt>
 File: radcorr.pdf Graphic file (type pdf)
 
 <use radcorr.pdf>
-Package pdftex.def Info: radcorr.pdf used on input line 285.
-(pdftex.def)             Requested size: 241.84842pt x 140.22246pt.
+Package pdftex.def Info: radcorr.pdf used on input line 279.
+(pdftex.def)             Requested size: 241.84842pt x 138.97705pt.
  [9 <./fluxcomps.pdf>] [10 <./radcorr.pdf>] [11] [12]
 (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
@@ -360,10 +360,10 @@ y10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c
 :/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2011/texm
 f-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (12 pages, 47444475 bytes).
+Output written on FlowModPRL_TexV1preprint.pdf (12 pages, 59812115 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 232 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
