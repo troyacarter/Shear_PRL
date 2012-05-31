@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  29 MAY 2012 13:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  31 MAY 2012 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -325,24 +325,24 @@ File: powercontour.pdf Graphic file (type pdf)
 Package pdftex.def Info: powercontour.pdf used on input line 221.
 (pdftex.def)             Requested size: 241.84842pt x 249.17186pt.
  [7 <./fluxvsshear.pdf>]
-<fluxcomps.pdf, id=95, 401.66762pt x 551.13405pt>
+<fluxcomps.pdf, id=95, 401.66762pt x 549.92953pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
 Package pdftex.def Info: fluxcomps.pdf used on input line 254.
-(pdftex.def)             Requested size: 241.84842pt x 331.85191pt.
- [8 <./powercontour.pdf>] <radcorr.pdf, id=135, 584.73657pt x 336.0274pt>
+(pdftex.def)             Requested size: 241.84842pt x 331.12665pt.
+ [8 <./powercontour.pdf>] <radcorr.pdf, id=135, 584.73657pt x 339.6409pt>
 File: radcorr.pdf Graphic file (type pdf)
 
 <use radcorr.pdf>
 Package pdftex.def Info: radcorr.pdf used on input line 279.
-(pdftex.def)             Requested size: 241.84842pt x 138.97705pt.
+(pdftex.def)             Requested size: 241.84842pt x 140.47154pt.
  [9 <./fluxcomps.pdf>] [10 <./radcorr.pdf>] [11] [12]
 (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
- 4153 strings out of 493629
- 53691 string characters out of 3146671
+ 4155 strings out of 493629
+ 53708 string characters out of 3146671
  125402 words of memory out of 3000000
- 7390 multiletter control sequences out of 15000+200000
+ 7392 multiletter control sequences out of 15000+200000
  14827 words of font info for 54 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  37i,7n,26p,1557b,295s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -360,9 +360,9 @@ y10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c
 :/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2011/texm
 f-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (12 pages, 59812115 bytes).
+Output written on FlowModPRL_TexV1preprint.pdf (12 pages, 60137610 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
+ 231 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
