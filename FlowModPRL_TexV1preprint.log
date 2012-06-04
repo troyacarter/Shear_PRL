@@ -1,127 +1,154 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.29)  4 JUN 2012 12:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  4 JUN 2012 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**FlowModPRL_TexV1preprint.tex
-(./FlowModPRL_TexV1preprint.tex
+**"C:/Users/David Schaffner/Git/Shear_PRL/FlowModPRL_TexV1preprint.tex"
+(c:/Users/David Schaffner/Git/Shear_PRL/FlowModPRL_TexV1preprint.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
-(/home/tcarter/Documents/tex/revtex/revtex4.cls
-Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
-cumentation)
- Copyright (c) 2001 The American Physical Society.
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(c:/texlive/2011/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
  mailto:revtex@aps.org
  Licensed under the LPPL:
 http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
- Arthur Ogawa <ogawa@teleport.com>
- Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
-ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
-Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
 \intertabularlinepenalty=\count79
 \@tbpen=\count80
 \@arstrutbox@hline=\box26
-Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
-ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
-\c@linecount=\count81
-\output=\toks14
-\@protection@box=\box27
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
 \@topmark@saved=\toks15
-\footins@saved=\box28
-\pagesofar=\box29
-\footbox=\box30
-\pagegrid@col=\count82
-Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
-ly upper/lower case changing (DPC)]. on input line 3682.
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+(c:/texlive/2011/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
 )
-\c@affil=\count83
-\absbox=\box31
-\c@part=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\c@figure=\count90
-\c@table=\count91
+Class revtex4-1 Info: Selecting journal prl on input line 7544.
+Class revtex4-1 Info: APS journal PRL selected on input line 7545.
 
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip43
-\bibsep=\skip44
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count92
+(c:/texlive/2011/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
 )
-\widetext@top=\box32
-\widetext@bot=\box33
-
-(/home/tcarter/Documents/tex/revtex/revsymb.sty
-Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
-tion)
-LaTeX Info: Redefining \REV@mathfrak on input line 118.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/2011/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(c:/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
-LaTeX Info: Redefining \frak on input line 99.
-LaTeX Info: Redefining \Bbb on input line 101.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(c:/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip45
+\@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen102
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)
+LaTeX Info: Redefining \text on input line 53.
+)
+(c:/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen103
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count93
+\inf@bad=\count94
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count94
-\leftroot@=\count95
+\uproot@=\count95
+\leftroot@=\count96
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count96
-\DOTSCASE@=\count97
+\classnum@=\count97
+\DOTSCASE@=\count98
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box34
-\strutbox@=\box35
+\Mathstrutbox@=\box41
+\strutbox@=\box42
 \big@size=\dimen104
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count98
-\c@MaxMatrixCols=\count99
-\dotsspace@=\muskip11
-\c@parentequation=\count100
-\dspbrk@lvl=\count101
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
 \tag@help=\toks18
-\row@=\count102
-\column@=\count103
-\maxfields@=\count104
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
 \andhelp@=\toks19
 \eqnshift@=\dimen105
 \alignsep@=\dimen106
@@ -130,64 +157,76 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \totwidth@=\dimen109
 \lineht@=\dimen110
 \@envbody=\toks20
-\multlinegap=\skip46
-\multlinetaggap=\skip47
+\multlinegap=\skip45
+\multlinetaggap=\skip46
 \mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(/home/tcarter/Documents/tex/revtex/aps.rtx
-File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
-n)
+(c:/texlive/2011/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/home/tcarter/Documents/tex/revtex/12pt.rtx
-File: 12pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
-on)
+(c:/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count106
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(c:/texlive/2011/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \frak on input line 95.
+LaTeX Info: Redefining \Bbb on input line 111.
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(c:/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks22
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(c:/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(c:/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count105
+\Gread@gobject=\count107
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+(c:/texlive/2011/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(c:/texlive/2011/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen113
 \extrarowheight=\dimen114
 \NC@list=\toks23
-\extratabsurround=\skip48
-\backup@length=\skip49
+\extratabsurround=\skip49
+\backup@length=\skip50
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+(c:/texlive/2011/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -195,6 +234,13 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Info: Redefining \bm on input line 204.
 )
+Class revtex4-1 Info: Patching array package. on input line 22.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 22.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 22.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 22.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 22.
+
 (./FlowModPRL_TexV1preprint.aux)
 \openout1 = `FlowModPRL_TexV1preprint.aux'.
 
@@ -210,31 +256,28 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
-Class revtex4 Info: Patching array package. on input line 22.
-Class revtex4 Info: cite was not loaded (OK!) on input line 22.
-Class revtex4 Info: multicol was not loaded (OK!) on input line 22.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(c:/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
+\scratchcounter=\count108
 \scratchdimen=\dimen115
-\scratchbox=\box36
-\nofMPsegments=\count107
-\nofMParguments=\count108
+\scratchbox=\box43
+\nofMPsegments=\count109
+\nofMParguments=\count110
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count109
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen116
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks25
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (c:/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -243,22 +286,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(c:/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(c:/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(c:/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -270,93 +313,89 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\openout3 = `FlowModPRL_TexV1preprintNotes.bib'.
+
 LaTeX Font Info:    Try loading font information for U+msa on input line 45.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 45.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+(c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<velocity_flowshear.pdf, id=24, 602.80205pt x 758.53186pt>
+) [1{c:/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<velocity_flowshear.pdf, id=18, 602.80205pt x 758.53186pt>
 File: velocity_flowshear.pdf Graphic file (type pdf)
 
 <use velocity_flowshear.pdf>
 Package pdftex.def Info: velocity_flowshear.pdf used on input line 113.
 (pdftex.def)             Requested size: 241.84842pt x 304.32173pt.
- [4]
-<densgrad.pdf, id=28, 584.73657pt x 301.3408pt>
+ [2 <./velocity_flowshear.pdf>]
+<densgrad.pdf, id=42, 584.73657pt x 301.3408pt>
 File: densgrad.pdf Graphic file (type pdf)
  <use densgrad.pdf>
 Package pdftex.def Info: densgrad.pdf used on input line 137.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
- [5 <./velocity_flowshear.pdf> <./densgrad.pdf>]
-<shearandgrad.pdf, id=61, 584.73657pt x 301.3408pt>
+
+<shearandgrad.pdf, id=43, 584.73657pt x 301.3408pt>
 File: shearandgrad.pdf Graphic file (type pdf)
  <use shearandgrad.pdf>
 Package pdftex.def Info: shearandgrad.pdf used on input line 152.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
 
-[6 <./shearandgrad.pdf>] <fluxvsshear.pdf, id=77, 584.73657pt x 301.3408pt>
+<fluxvsshear.pdf, id=44, 584.73657pt x 301.3408pt>
 File: fluxvsshear.pdf Graphic file (type pdf)
-
-<use fluxvsshear.pdf>
+ <use fluxvsshear.pdf>
 Package pdftex.def Info: fluxvsshear.pdf used on input line 196.
 (pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
- <powercontour.pdf, id=78, 580.88214pt x 598.46689pt>
-File: powercontour.pdf Graphic file (type pdf)
 
-<use powercontour.pdf>
+[3 <./densgrad.pdf> <./shearandgrad.pdf> <./fluxvsshear.pdf>]
+<powercontour.pdf, id=80, 580.88214pt x 598.46689pt>
+File: powercontour.pdf Graphic file (type pdf)
+ <use powercontour.pdf>
 Package pdftex.def Info: powercontour.pdf used on input line 221.
 (pdftex.def)             Requested size: 241.84842pt x 249.17186pt.
- [7 <./fluxvsshear.pdf>]
-<fluxcomps.pdf, id=95, 401.66762pt x 549.92953pt>
+
+<fluxcomps.pdf, id=81, 401.66762pt x 549.92953pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
 Package pdftex.def Info: fluxcomps.pdf used on input line 254.
 (pdftex.def)             Requested size: 241.84842pt x 331.12665pt.
- [8 <./powercontour.pdf>] <radcorr.pdf, id=135, 584.73657pt x 339.6409pt>
-File: radcorr.pdf Graphic file (type pdf)
-
-<use radcorr.pdf>
-Package pdftex.def Info: radcorr.pdf used on input line 279.
-(pdftex.def)             Requested size: 241.84842pt x 140.47154pt.
- [9 <./fluxcomps.pdf>] (./FlowModPRL_TexV1preprint.bbl
-[10 <./radcorr.pdf>] [11]) [12] (./FlowModPRL_TexV1preprint.aux) ) 
+ [4 <./powercontour.pdf> <./fluxcomps.pdf>]
+No file FlowModPRL_TexV1preprint.bbl.
+[5] (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
- 4150 strings out of 495066
- 53672 string characters out of 3182278
- 122638 words of memory out of 3000000
- 7262 multiletter control sequences out of 15000+200000
- 15173 words of font info for 55 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 37i,7n,26p,1516b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (12 pages, 60145241 bytes).
+ 4599 strings out of 493629
+ 60268 string characters out of 3146671
+ 146439 words of memory out of 3000000
+ 7823 multiletter control sequences out of 15000+200000
+ 13994 words of font info for 52 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 38i,5n,26p,1551b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mex10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2011/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/
+2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2011/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2011/texmf-dist/font
+s/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 49254806 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 186 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

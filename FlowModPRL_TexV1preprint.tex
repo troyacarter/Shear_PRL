@@ -1,5 +1,5 @@
-\documentclass[aps,prl,amsmath,amssymb,preprint,superscriptaddress]{revtex4}
-
+%\documentclass[aps,prl,amsmath,amssymb,preprint,superscriptaddress]{revtex4} %preprint version
+\documentclass[aps,prl,amsmath,amssymb,reprint,superscriptaddress]{revtex4-1} %reprint version
 \usepackage{graphicx}% Include figure files
 \usepackage{dcolumn}% Align table columns on decimal point
 \usepackage{bm}% bold math
@@ -42,7 +42,7 @@
 \date{\today}
 
 \begin{abstract}
-Continuous control over azimuthal flow and shear in the edge of the Large Plasma Device (LAPD) has been achieved using a biasable limiter which has allowed a careful study of the effect of flow shear on pressure-gradient-driven turbulence and transport in LAPD. LAPD rotates spontaneously in the ion diamagnetic direction (IDD); positive limiter bias first reduces, then minimizes (producing a near-zero shear state), and finally reverses the flow into the electron diamagnetic direction (EDD). Degradation of particle confinement is observed in the minimum shearing state and reduction in turbulent particle flux is observed with increasing shearing in both flow directions. Near-complete suppression of turbulent particle flux is observed for shearing rates comparable to the turbulent autocorrelation rate measured in the minimum shear state.  Turbulent flux suppression is dominated by amplitude reduction in low-frequency ($<10$kHz) $I_{sat}$ fluctuations and a reduction in the radial correlation length. An increase in fluctuations for the highest shearing states is observed with the emergence of a coherent mode which does not lead to net particle transport. The variations of density fluctuation and radial correlation length are fit well with power-laws and compare favorably to simple models of shear suppression of transport.
+Continuous control over azimuthal flow and shear in the edge of the Large Plasma Device (LAPD) has been achieved using a biasable limiter which has allowed a careful study of the effect of flow shear on pressure-gradient-driven turbulence and transport in LAPD. LAPD rotates spontaneously in the ion diamagnetic direction (IDD); positive limiter bias first reduces, then minimizes (producing a near-zero shear state), and finally reverses the flow into the electron diamagnetic direction (EDD). Degradation of particle confinement is observed in the minimum shearing state and reduction in turbulent particle flux is observed with increasing shearing in both flow directions. Near-complete suppression of turbulent particle flux is observed for shearing rates comparable to the turbulent autocorrelation rate measured in the minimum shear state.  Turbulent flux suppression is dominated by amplitude reduction in low-frequency ($<10$kHz) $I_{sat}$ fluctuations. An increase in fluctuations for the highest shearing states is observed with the emergence of a coherent mode which does not lead to net particle transport. The variations of $I_{sat}$ fluctuations are fit well with power-laws and compare favorably to simple models of shear suppression of transport.
 \end{abstract}
 
 \maketitle
@@ -54,7 +54,7 @@ the fact that most datasets on flow-turbulence interaction come from studies of 
 flow and flow shear to study flow driven instabilities (e.g. \cite{amatucci96,jass72}); however, experiments have not been successfully done in which precise external control over flow shear has been achieved in the presence of drift-wave turbulence to systematically study the changes in turbulence characteristics and transport.
 
 In this letter, we report on the first experiments in which external control of flow is used to document the response of turbulence and transport to a continuous variation of flow shear, including a zero shear state and a reversal of the flow direction. Shearing rates ($\gamma_{s}= \partial V_{\theta}/\partial r$) from
-zero to up to five times the turbulent autocorrelation rate measured at zero flow shear $(\tau_{ac}^{-1})$ are achieved. Turbulent particle flux is reduced with increasing shearing rate, regardless of the direction of the flow or sign of the flow shear, with significant reduction occuring for $\gamma_{s} \sim \tau_{ac}^{-1}$.  The observed reduction in particle flux is dominated by decreases in low-frequency ($f < 10$kHz) $I_{sat}$ fluctuation amplitude and a reduction of the radial correlation length is also observed. For low frequency fluctuations, the crossphase between $I_{sat}$ and azimuthal electric field fluctuations remain near zero for all shearing rates.  With higher shear ($\gamma_{s} > \tau_{ac}^{-1}$) we observe the emergence of a coherent mode localized spatially in the region
+zero to up to five times the turbulent autocorrelation rate measured at zero flow shear $(\tau_{ac}^{-1})$ are achieved. Turbulent particle flux is reduced with increasing shearing rate, regardless of the direction of the flow or sign of the flow shear, with significant reduction occuring for $\gamma_{s} \sim \tau_{ac}^{-1}$.  The observed reduction in particle flux is dominated by decreases in low-frequency ($f < 10$kHz) $I_{sat}$ fluctuation amplitude. For low frequency fluctuations, the crossphase between $I_{sat}$ and azimuthal electric field fluctuations remain near zero for all shearing rates.  With higher shear ($\gamma_{s} > \tau_{ac}^{-1}$) we observe the emergence of a coherent mode localized spatially in the region
 of strong flow. Fluctuations from this mode appear to increase $I_{sat}$ fluctuations above 10kHz, but do not appear to contribute to particle flux.   
 
 The Large Plasma Device \cite{gek91} (LAPD) is a 17m long, $\sim 60$cm
@@ -255,33 +255,33 @@ through changing plasma parameters, in particular magnetic field.
 \caption{\label{fig:fluxcomps} Components of particle flux versus shearing rate including $I_{\rm sat}$/Density fluctuation power(a), electric field fluctuation power(b), crossphase(c) and coherency(d) with black points for low or all frequency, red for high only.}
 \end{figure}
 
-Flow shear is expected to produce radial decorrelation of turbulence,
-breaking up turbulent eddies into smaller radial scales~\cite{biglari90}.
-Two-dimensional turbulent correlation functions are computed using
-two probes: one probe is held fixed in space (phase reference) and
-its signals are correlated against a second probe, axially separated
-from the first, which is moved shot-to-shot in a plane perpendicular
-to the magnetic field.  The radial correlation length, $\Delta r_c$,
-is derived from the radial width of the Hilbert transform of the
-correlation function (half-radial-width and half-maximum at the
-location of peak correlation).  The radial correlation length 
-decreases with increasing shearing, as shown in
-Fig.~\ref{fig:radcorr}.  At higher shearing rate, a coherent mode
-pattern appears (as shown in the rightmost inset plot) in addition to
-the primary correlation peak (the coherent mode is
-pattern shifted inward of the reference probe location which was $r=30$cm).  The coherent
-mode does lead to an increasing trend in the radial correlation length
-at higher shear, but the overall trend is a substantial reduction
-($\gtrsim 2$) in the radial correlation length from the no shear state.
+%Flow shear is expected to produce radial decorrelation of turbulence,
+%breaking up turbulent eddies into smaller radial scales~\cite{biglari90}.
+%Two-dimensional turbulent correlation functions are computed using
+%two probes: one probe is held fixed in space (phase reference) and
+%its signals are correlated against a second probe, axially separated
+%from the first, which is moved shot-to-shot in a plane perpendicular
+%to the magnetic field.  The radial correlation length, $\Delta r_c$,
+%is derived from the radial width of the Hilbert transform of the
+%correlation function (half-radial-width and half-maximum at the
+%location of peak correlation).  The radial correlation length 
+%decreases with increasing shearing, as shown in
+%Fig.~\ref{fig:radcorr}.  At higher shearing rate, a coherent mode
+%pattern appears (as shown in the rightmost inset plot) in addition to
+%the primary correlation peak (the coherent mode is
+%pattern shifted inward of the reference probe location which was $r=30$cm).  The coherent
+%mode does lead to an increasing trend in the radial correlation length
+%at higher shear, but the overall trend is a substantial reduction
+%($\gtrsim 2$) in the radial correlation length from the no shear state.
 
-\begin{figure}[!htbp]
-\centerline{
-\includegraphics[width=8.5cm]{radcorr}}
-\caption{\label{fig:radcorr} $\Delta r_{c}$ with
-  reference probes at 28,29,30,31 or 32cm with $\gamma_{s}$ averaged over measured $\Delta r_{c}$.  Inset shows 2D correlation
-  structure for 3 cases: unbiased (spontaneous flow), minimum flow
-  shear and strong EDD flow.}
-\end{figure}
+%\begin{figure}[!htbp]
+%\centerline{
+%\includegraphics[width=8.5cm]{radcorr}}
+%\caption{\label{fig:radcorr} $\Delta r_{c}$ with
+%  reference probes at 28,29,30,31 or 32cm with $\gamma_{s}$ averaged over measured $\Delta r_{c}$.  Inset shows 2D correlation
+%  structure for 3 cases: unbiased (spontaneous flow), minimum flow
+%  shear and strong EDD flow.}
+%\end{figure}
 
 Lastly, we add a comparison of our data to a simple theory, the
 Biglari-Diamond-Terry (BDT) model~\cite{biglari90}, which predicts a
@@ -290,9 +290,11 @@ amplitude of the form: $\left(\gamma_{s}/\tau_{ac}^{-1}\right)^{-\alpha}$. A com
 predicted exponent is made for each quantity. As seen in
 Figure~\ref{fig:fluxcomps}, a best fit of $\alpha = 0.530$ compares
 favorably to the BDT prediction of $\alpha = 2/3$ for the reduction in
-density fluctuation amplitude. Similarly, a fit of $\alpha = 0.461$
-for $\Delta r_{c}$ in Figure~\ref{fig:radcorr} compares well to the BDT
-prediction of $\alpha = 1/3$.   It should be noted, however, that the
+density fluctuation amplitude. 
+%Similarly, a fit of $\alpha = 0.461$
+%for $\Delta r_{c}$ in Figure~\ref{fig:radcorr} compares well to the BDT
+%prediction of $\alpha = 1/3$.   
+It should be noted, however, that the
 BDT model is fairly simple and the validity of its assumptions is
 questionable for the experimental conditions reported here.  In
 particular, as the shearing rate is increased in LAPD, the density
@@ -308,8 +310,7 @@ a reversal in the direction of flow, is studied.  Increased shearing
 improves radial particle confinement regardless of the direction of
 the azimuthal flow or sign of the flow shear. The observed reduction of
 turbulent particle flux with shear is attributed to a reduction in the
-amplitude of density fluctuations.  A reduction in the radial
-correlation length is also observed with increasing shearing. These
+amplitude of density fluctuations. These
 experiments were performed at a fixed set of plasma parameters (fixed
 magnetic field, neutral pressure, discharge power); future work will
 explore the variation in turbulent response to shear as these
@@ -356,7 +357,7 @@ B. Chapman {\it et~al.}, Phys. Plasmas {\bf 5},  1848  (1998).
 M. Shats {\it et~al.}, Phys. Rev. Lett. {\bf 84},  26  (2000).
 
 \bibitem{sakai93}
-O. Sakai (\it et~al.}, Y. Yasaka, and R. Itatani, Phys. Rev. Lett. {\bf 70},  26  (1993).
+O. Sakai {\it et~al.}, Phys. Rev. Lett. {\bf 70},  26  (1993).
 
 \bibitem{maggs07}
 J. Maggs {\it et~al.}, Phys. Plasmas {\bf 14},  052507  (2007).
@@ -365,8 +366,7 @@ J. Maggs {\it et~al.}, Phys. Plasmas {\bf 14},  052507  (2007).
 T. Carter and J. Maggs, Phys. Plasmas {\bf 16},  012304  (2009).
 
 \bibitem{diamond05}
-P. Diamond {\it et~al.}, Plasma Phys. Control Fusion {\bf
-  47},  R35  (2005).
+P. Diamond {\it et~al.}, Plasma Phys. Control Fusion {\bf 47},  R35  (2005).
 
 \bibitem{holland06}
 C. Holland {\it et~al.}, Phys. Rev. Lett. {\bf 96},  195002  (2006).
@@ -375,8 +375,7 @@ C. Holland {\it et~al.}, Phys. Rev. Lett. {\bf 96},  195002  (2006).
 K. Burrell, Phys. Plasmas {\bf 6},  12  (1999).
 
 \bibitem{tynan09}
-G. Tynan {\it et~al.}, Plasma Phys. Control Fusion {\bf 51},
-  113001  (2009).
+G. Tynan {\it et~al.}, Plasma Phys. Control Fusion {\bf 51}, 113001  (2009).
 
 \bibitem{biglari90}
 H. Biglari {\it et~al.}, Phys. Fluids B. {\bf 2},  1  (1990).
@@ -385,7 +384,7 @@ H. Biglari {\it et~al.}, Phys. Fluids B. {\bf 2},  1  (1990).
 E.-J. Kim {\it et~al.}, Phys. Plasmas {\bf 11},  10  (2004).
 
 \bibitem{ware96}
-A. Ware, P. Terry, P. Diamond, and B. Carreras, Plasma Phys. Control Fusion
+A. Ware {\it et~al.}, Plasma Phys. Control Fusion
   {\bf 38},  1343  (1996).
 
 \bibitem{amatucci96}
