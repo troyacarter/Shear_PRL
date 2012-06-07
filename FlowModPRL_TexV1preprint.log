@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  4 JUN 2012 16:02
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  7 JUN 2012 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**FlowModPRL_TexV1preprint.tex
-(./FlowModPRL_TexV1preprint.tex
+**"C:/Users/David Schaffner/Git/Shear_PRL/FlowModPRL_TexV1preprint.tex"
+(c:/Users/David Schaffner/Git/Shear_PRL/FlowModPRL_TexV1preprint.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
@@ -329,54 +329,54 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 45.
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1{c:/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<velocity_flowshear.pdf, id=18, 602.80205pt x 758.53186pt>
+<velocity_flowshear.pdf, id=18, 585.57974pt x 725.77147pt>
 File: velocity_flowshear.pdf Graphic file (type pdf)
 
 <use velocity_flowshear.pdf>
 Package pdftex.def Info: velocity_flowshear.pdf used on input line 113.
-(pdftex.def)             Requested size: 241.84842pt x 304.32173pt.
+(pdftex.def)             Requested size: 241.84842pt x 299.7388pt.
  [2 <./velocity_flowshear.pdf>]
-<densgrad.pdf, id=42, 584.73657pt x 301.3408pt>
+<densgrad.pdf, id=33, 578.71407pt x 286.16512pt>
 File: densgrad.pdf Graphic file (type pdf)
  <use densgrad.pdf>
 Package pdftex.def Info: densgrad.pdf used on input line 137.
-(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+(pdftex.def)             Requested size: 241.84842pt x 119.5903pt.
 
-<shearandgrad.pdf, id=43, 584.73657pt x 301.3408pt>
+<shearandgrad.pdf, id=34, 566.30872pt x 266.29288pt>
 File: shearandgrad.pdf Graphic file (type pdf)
  <use shearandgrad.pdf>
 Package pdftex.def Info: shearandgrad.pdf used on input line 152.
-(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+(pdftex.def)             Requested size: 241.84842pt x 113.72354pt.
 
-<fluxvsshear.pdf, id=44, 584.73657pt x 301.3408pt>
+<fluxvsshear.pdf, id=35, 565.58604pt x 249.67177pt>
 File: fluxvsshear.pdf Graphic file (type pdf)
  <use fluxvsshear.pdf>
 Package pdftex.def Info: fluxvsshear.pdf used on input line 196.
-(pdftex.def)             Requested size: 241.84842pt x 124.63107pt.
+(pdftex.def)             Requested size: 241.84842pt x 106.76245pt.
 
 [3 <./densgrad.pdf> <./shearandgrad.pdf> <./fluxvsshear.pdf>]
-<powercontour.pdf, id=80, 580.88214pt x 598.46689pt>
+<powercontour.pdf, id=70, 580.88214pt x 565.22466pt>
 File: powercontour.pdf Graphic file (type pdf)
  <use powercontour.pdf>
 Package pdftex.def Info: powercontour.pdf used on input line 221.
-(pdftex.def)             Requested size: 241.84842pt x 249.17186pt.
+(pdftex.def)             Requested size: 241.84842pt x 235.33145pt.
 
-<fluxcomps.pdf, id=81, 401.66762pt x 549.92953pt>
+<fluxcomps.pdf, id=71, 391.91217pt x 528.61087pt>
 File: fluxcomps.pdf Graphic file (type pdf)
  <use fluxcomps.pdf>
 Package pdftex.def Info: fluxcomps.pdf used on input line 254.
-(pdftex.def)             Requested size: 241.84842pt x 331.12665pt.
+(pdftex.def)             Requested size: 241.84842pt x 326.20282pt.
  [4 <./powercontour.pdf> <./fluxcomps.pdf>]
 No file FlowModPRL_TexV1preprint.bbl.
 [5] (./FlowModPRL_TexV1preprint.aux) ) 
 Here is how much of TeX's memory you used:
- 4597 strings out of 493629
- 60110 string characters out of 3146671
- 146439 words of memory out of 3000000
- 7823 multiletter control sequences out of 15000+200000
+ 4600 strings out of 493629
+ 60278 string characters out of 3146671
+ 145439 words of memory out of 3000000
+ 7824 multiletter control sequences out of 15000+200000
  13994 words of font info for 52 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,5n,26p,1510b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,5n,26p,1551b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/texlive/2011/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
@@ -392,10 +392,10 @@ mr7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2011/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2011/texmf-dist/font
 s/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 49254806 bytes).
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 26983588 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
+ 150 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
