@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  7 JUN 2012 11:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  8 JUN 2012 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,73 +329,135 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 45.
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1{c:/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<velocity_flowshear.pdf, id=18, 585.57974pt x 725.77147pt>
-File: velocity_flowshear.pdf Graphic file (type pdf)
+Package epstopdf Info: Source file: <velocity_flowshear.eps>
+(epstopdf)                    date: 2012-06-08 17:52:11
+(epstopdf)                    size: 1418864 bytes
+(epstopdf)             Output file: <velocity_flowshear-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-06-08 18:00:18
+(epstopdf)                    size: 233876 bytes
+(epstopdf)             Command: <repstopdf --outfile=velocity_flowshear-eps-con
+verted-to.pdf velocity_flowshear.eps>
+(epstopdf)             \includegraphics on input line 112.
+Package epstopdf Info: Output file is already uptodate.
 
-<use velocity_flowshear.pdf>
-Package pdftex.def Info: velocity_flowshear.pdf used on input line 113.
-(pdftex.def)             Requested size: 241.84842pt x 299.7388pt.
- [2 <./velocity_flowshear.pdf>]
-<densgrad.pdf, id=33, 578.71407pt x 286.16512pt>
-File: densgrad.pdf Graphic file (type pdf)
- <use densgrad.pdf>
-Package pdftex.def Info: densgrad.pdf used on input line 137.
-(pdftex.def)             Requested size: 241.84842pt x 119.5903pt.
+<velocity_flowshear-eps-converted-to.pdf, id=17, 780.9175pt x 965.6075pt>
+File: velocity_flowshear-eps-converted-to.pdf Graphic file (type pdf)
 
-<shearandgrad.pdf, id=34, 566.30872pt x 266.29288pt>
-File: shearandgrad.pdf Graphic file (type pdf)
- <use shearandgrad.pdf>
-Package pdftex.def Info: shearandgrad.pdf used on input line 152.
-(pdftex.def)             Requested size: 241.84842pt x 113.72354pt.
+<use velocity_flowshear-eps-converted-to.pdf>
+Package pdftex.def Info: velocity_flowshear-eps-converted-to.pdf used on input 
+line 112.
+(pdftex.def)             Requested size: 241.84842pt x 299.04056pt.
+ [2 <./velocity_flowshear-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <densgrad.eps>
+(epstopdf)                    date: 2012-06-08 18:08:53
+(epstopdf)                    size: 606879 bytes
+(epstopdf)             Output file: <densgrad-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-06-08 18:13:05
+(epstopdf)                    size: 82004 bytes
+(epstopdf)             Command: <repstopdf --outfile=densgrad-eps-converted-to.
+pdf densgrad.eps>
+(epstopdf)             \includegraphics on input line 136.
+Package epstopdf Info: Output file is already uptodate.
 
-<fluxvsshear.pdf, id=35, 565.58604pt x 249.67177pt>
-File: fluxvsshear.pdf Graphic file (type pdf)
- <use fluxvsshear.pdf>
-Package pdftex.def Info: fluxvsshear.pdf used on input line 196.
-(pdftex.def)             Requested size: 241.84842pt x 106.76245pt.
+<densgrad-eps-converted-to.pdf, id=25, 769.87625pt x 384.43625pt>
+File: densgrad-eps-converted-to.pdf Graphic file (type pdf)
 
-[3 <./densgrad.pdf> <./shearandgrad.pdf> <./fluxvsshear.pdf>]
-<powercontour.pdf, id=70, 580.88214pt x 565.22466pt>
+<use densgrad-eps-converted-to.pdf>
+Package pdftex.def Info: densgrad-eps-converted-to.pdf used on input line 136.
+(pdftex.def)             Requested size: 241.84842pt x 120.76369pt.
+Package epstopdf Info: Source file: <sheargradflux.eps>
+(epstopdf)                    date: 2012-06-08 18:10:39
+(epstopdf)                    size: 887749 bytes
+(epstopdf)             Output file: <sheargradflux-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-06-08 18:13:12
+(epstopdf)                    size: 122414 bytes
+(epstopdf)             Command: <repstopdf --outfile=sheargradflux-eps-converte
+d-to.pdf sheargradflux.eps>
+(epstopdf)             \includegraphics on input line 151.
+Package epstopdf Info: Output file is already uptodate.
+
+<sheargradflux-eps-converted-to.pdf, id=26, 761.84625pt x 652.4375pt>
+File: sheargradflux-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sheargradflux-eps-converted-to.pdf>
+Package pdftex.def Info: sheargradflux-eps-converted-to.pdf used on input line 
+151.
+(pdftex.def)             Requested size: 241.84842pt x 207.11176pt.
+
+
+LaTeX Warning: Reference `fig:sheargradflux' on page 3 undefined on input line 
+160.
+
+
+LaTeX Warning: Reference `fig:sheargradflux' on page 3 undefined on input line 
+182.
+
+
+LaTeX Warning: Reference `fig:sheargradflux' on page 3 undefined on input line 
+186.
+
+[3 <./densgrad-eps-converted-to.pdf> <./sheargradflux-eps-converted-to.pdf>]
+<powercontour.pdf, id=38, 580.88214pt x 565.22466pt>
 File: powercontour.pdf Graphic file (type pdf)
  <use powercontour.pdf>
-Package pdftex.def Info: powercontour.pdf used on input line 221.
+Package pdftex.def Info: powercontour.pdf used on input line 213.
 (pdftex.def)             Requested size: 241.84842pt x 235.33145pt.
+Package epstopdf Info: Source file: <fluxcomps.eps>
+(epstopdf)                    date: 2012-06-08 18:12:42
+(epstopdf)                    size: 745884 bytes
+(epstopdf)             Output file: <fluxcomps-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-06-08 18:13:17
+(epstopdf)                    size: 106559 bytes
+(epstopdf)             Command: <repstopdf --outfile=fluxcomps-eps-converted-to
+.pdf fluxcomps.eps>
+(epstopdf)             \includegraphics on input line 246.
+Package epstopdf Info: Output file is already uptodate.
 
-<fluxcomps.pdf, id=71, 391.91217pt x 528.61087pt>
-File: fluxcomps.pdf Graphic file (type pdf)
- <use fluxcomps.pdf>
-Package pdftex.def Info: fluxcomps.pdf used on input line 254.
-(pdftex.def)             Requested size: 241.84842pt x 326.20282pt.
- [4 <./powercontour.pdf> <./fluxcomps.pdf>]
+<fluxcomps-eps-converted-to.pdf, id=39, 524.96124pt x 594.22pt>
+File: fluxcomps-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fluxcomps-eps-converted-to.pdf>
+Package pdftex.def Info: fluxcomps-eps-converted-to.pdf used on input line 246.
+
+(pdftex.def)             Requested size: 241.84842pt x 273.75253pt.
+ [4 <./powercontour.pdf> <./fluxcomps-eps-converted-to.pdf>]
 No file FlowModPRL_TexV1preprint.bbl.
-[5] (./FlowModPRL_TexV1preprint.aux) ) 
+[5] (./FlowModPRL_TexV1preprint.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ ) 
 Here is how much of TeX's memory you used:
- 4600 strings out of 493629
- 60278 string characters out of 3146671
- 145439 words of memory out of 3000000
- 7824 multiletter control sequences out of 15000+200000
+ 4596 strings out of 493629
+ 60472 string characters out of 3146671
+ 142425 words of memory out of 3000000
+ 7821 multiletter control sequences out of 15000+200000
  13994 words of font info for 52 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,5n,26p,1551b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
-<c:/texlive/2011/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texli
-ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2011/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2011/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2011/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr6.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/
-2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2011/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2011/texmf-dist/font
-s/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 26983588 bytes).
+<c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2011
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2011/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2011/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi5.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9
+.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2011
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2011/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy7.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmti9.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on FlowModPRL_TexV1preprint.pdf (5 pages, 7988390 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
