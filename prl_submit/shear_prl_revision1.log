@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  31 JUL 2012 19:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  1 AUG 2012 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,6 +326,7 @@ File: figure2-eps-converted-to.pdf Graphic file (type pdf)
 <use figure2-eps-converted-to.pdf>
 Package pdftex.def Info: figure2-eps-converted-to.pdf used on input line 131.
 (pdftex.def)             Requested size: 241.84842pt x 126.99048pt.
+ [5 <./figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure3.eps>
 (epstopdf)                    date: 2012-07-05 21:55:52
 (epstopdf)                    size: 512651 bytes
@@ -337,14 +338,13 @@ df figure3.eps>
 (epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure3-eps-converted-to.pdf, id=29, 864.22874pt x 653.44125pt>
+<figure3-eps-converted-to.pdf, id=50, 864.22874pt x 653.44125pt>
 File: figure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure3-eps-converted-to.pdf>
 Package pdftex.def Info: figure3-eps-converted-to.pdf used on input line 146.
 (pdftex.def)             Requested size: 241.84842pt x 182.8626pt.
- [5 <./figure1-eps-converted-to.pdf>]
-[6 <./figure2-eps-converted-to.pdf> <./figure3-eps-converted-to.pdf>]
+ [6 <./figure2-eps-converted-to.pdf> <./figure3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure4.eps>
 (epstopdf)                    date: 2012-07-05 21:55:52
 (epstopdf)                    size: 804495 bytes
@@ -383,10 +383,10 @@ Package pdftex.def Info: figure5-eps-converted-to.pdf used on input line 237.
  [8 <./figure4-eps-converted-to.pdf>]
 [9 <./figure5-eps-converted-to.pdf>] [10] (./shear_prl_revision1.aux) ) 
 Here is how much of TeX's memory you used:
- 4126 strings out of 493629
- 53487 string characters out of 3146671
- 123705 words of memory out of 3000000
- 7364 multiletter control sequences out of 15000+200000
+ 4131 strings out of 493629
+ 53579 string characters out of 3146671
+ 124737 words of memory out of 3000000
+ 7369 multiletter control sequences out of 15000+200000
  15173 words of font info for 55 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  37i,7n,26p,1468b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -406,7 +406,7 @@ ic/amsfonts/cm/cmti10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
 fb>
-Output written on shear_prl_revision1.pdf (10 pages, 535397 bytes).
+Output written on shear_prl_revision1.pdf (10 pages, 535826 bytes).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
  121 compressed objects within 2 object streams
