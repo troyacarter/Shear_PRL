@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  1 AUG 2012 15:35
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2012.1.8)  2 AUG 2012 13:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -308,7 +308,7 @@ File: figure1-eps-converted-to.pdf Graphic file (type pdf)
 <use figure1-eps-converted-to.pdf>
 Package pdftex.def Info: figure1-eps-converted-to.pdf used on input line 108.
 (pdftex.def)             Requested size: 241.84842pt x 340.26735pt.
- [4]
+ [4] [5 <./figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure2.eps>
 (epstopdf)                    date: 2012-07-05 21:55:52
 (epstopdf)                    size: 393352 bytes
@@ -317,16 +317,15 @@ Package epstopdf Info: Source file: <figure2.eps>
 (epstopdf)                    size: 41492 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure2-eps-converted-to.p
 df figure2.eps>
-(epstopdf)             \includegraphics on input line 131.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure2-eps-converted-to.pdf, id=28, 779.91376pt x 409.53pt>
+<figure2-eps-converted-to.pdf, id=49, 779.91376pt x 409.53pt>
 File: figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure2-eps-converted-to.pdf>
-Package pdftex.def Info: figure2-eps-converted-to.pdf used on input line 131.
+Package pdftex.def Info: figure2-eps-converted-to.pdf used on input line 132.
 (pdftex.def)             Requested size: 241.84842pt x 126.99048pt.
- [5 <./figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure3.eps>
 (epstopdf)                    date: 2012-07-05 21:55:52
 (epstopdf)                    size: 512651 bytes
@@ -335,16 +334,17 @@ Package epstopdf Info: Source file: <figure3.eps>
 (epstopdf)                    size: 57562 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure3-eps-converted-to.p
 df figure3.eps>
-(epstopdf)             \includegraphics on input line 146.
+(epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure3-eps-converted-to.pdf, id=50, 864.22874pt x 653.44125pt>
 File: figure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure3-eps-converted-to.pdf>
-Package pdftex.def Info: figure3-eps-converted-to.pdf used on input line 146.
+Package pdftex.def Info: figure3-eps-converted-to.pdf used on input line 147.
 (pdftex.def)             Requested size: 241.84842pt x 182.8626pt.
- [6 <./figure2-eps-converted-to.pdf> <./figure3-eps-converted-to.pdf>]
+ [6 <./figure2-eps-converted-to.pdf>]
+[7 <./figure3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure4.eps>
 (epstopdf)                    date: 2012-07-05 21:55:52
 (epstopdf)                    size: 804495 bytes
@@ -353,16 +353,16 @@ Package epstopdf Info: Source file: <figure4.eps>
 (epstopdf)                    size: 147346 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure4-eps-converted-to.p
 df figure4.eps>
-(epstopdf)             \includegraphics on input line 205.
+(epstopdf)             \includegraphics on input line 206.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure4-eps-converted-to.pdf, id=78, 742.775pt x 764.8575pt>
+<figure4-eps-converted-to.pdf, id=83, 742.775pt x 764.8575pt>
 File: figure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure4-eps-converted-to.pdf>
-Package pdftex.def Info: figure4-eps-converted-to.pdf used on input line 205.
+Package pdftex.def Info: figure4-eps-converted-to.pdf used on input line 206.
 (pdftex.def)             Requested size: 241.84842pt x 249.0309pt.
- [7]
+ [8 <./figure4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure5.eps>
 (epstopdf)                    date: 2012-07-05 21:55:52
 (epstopdf)                    size: 823138 bytes
@@ -371,45 +371,53 @@ Package epstopdf Info: Source file: <figure5.eps>
 (epstopdf)                    size: 99613 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure5-eps-converted-to.p
 df figure5.eps>
-(epstopdf)             \includegraphics on input line 237.
+(epstopdf)             \includegraphics on input line 238.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure5-eps-converted-to.pdf, id=85, 600.2425pt x 615.29875pt>
+<figure5-eps-converted-to.pdf, id=104, 600.2425pt x 615.29875pt>
 File: figure5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure5-eps-converted-to.pdf>
-Package pdftex.def Info: figure5-eps-converted-to.pdf used on input line 237.
+Package pdftex.def Info: figure5-eps-converted-to.pdf used on input line 238.
 (pdftex.def)             Requested size: 241.84842pt x 247.90837pt.
- [8 <./figure4-eps-converted-to.pdf>]
-[9 <./figure5-eps-converted-to.pdf>] [10] (./shear_prl_revision1.aux) ) 
+ [9 <./figure5-eps-converted-to.pdf>]
+[10]
+
+Class revtex4 Warning: Endnote numbers changed: rerun LaTeX.
+
+[11] (./shear_prl_revision1.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ ) 
 Here is how much of TeX's memory you used:
- 4131 strings out of 493629
- 53579 string characters out of 3146671
- 124737 words of memory out of 3000000
- 7369 multiletter control sequences out of 15000+200000
+ 4140 strings out of 493629
+ 53714 string characters out of 3146671
+ 123773 words of memory out of 3000000
+ 7378 multiletter control sequences out of 15000+200000
  15173 words of font info for 55 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 37i,7n,26p,1468b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
-<c:/texl
-ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2011/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2011/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi6.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/20
-11/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2011/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
-fb>
-Output written on shear_prl_revision1.pdf (10 pages, 535826 bytes).
+ 37i,7n,26p,1468b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2011
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2011/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2011/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/201
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2011/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2011/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti8.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb>
+Output written on shear_prl_revision1.pdf (11 pages, 537206 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
+ 183 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
